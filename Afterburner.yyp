@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "6b760560-8ad4-4d23-a4d5-61f31da58e69",
+            "Value": {
+                "id": "576708cd-de0b-41ff-83bf-8e3e556f4564",
+                "resourcePath": "sprites\\sAlgiers\\sAlgiers.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "797456ee-f41c-4281-8985-dded969e61e5",
             "Value": {
                 "id": "a29de5c4-7911-4cc0-89fb-4be0ce038c8d",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417",
+            "Value": {
+                "id": "17e64b94-e329-4fd4-8416-0193962a9912",
+                "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84016730-3d02-4519-9ad4-5108362b6bf5",
             "Value": {
                 "id": "f3fa1dd8-b8d0-481d-9ead-89b54f280dc7",
@@ -130,7 +146,7 @@
             "Key": "85793929-fa8c-4f3d-9446-683cf2dd5a2d",
             "Value": {
                 "id": "e857c56a-ea29-4ec4-8210-a0815a708491",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\algiers\\algiers.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -148,6 +164,14 @@
                 "id": "3f6c2908-c95c-4cff-bfbd-d25e683ddfa3",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "bf1f7ffd-a785-4759-be55-38b69282163e",
+            "Value": {
+                "id": "f501c2f2-7e65-46b5-b039-edb7ff084e88",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
