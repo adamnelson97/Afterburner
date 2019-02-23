@@ -1,4 +1,5 @@
 window_set_caption("Afterburner");
-
-image_index = 0;
 health = 10;
+
+image_speed = 10;
+if (sprite_choice == 0) object_set_sprite(oPlayer, sF15);
