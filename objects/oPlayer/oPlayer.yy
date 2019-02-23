@@ -191,6 +191,20 @@
             "value": "10",
             "varName": "vert_speed",
             "varType": 0
+        },
+        {
+            "id": "3438bf8b-83e7-4187-b193-f1037466a4cb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "sprite_choice",
+            "varType": 0
         }
     ],
     "solid": false,
