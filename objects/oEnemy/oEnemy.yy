@@ -111,20 +111,6 @@
             "value": "10",
             "varName": "vert_speed",
             "varType": 1
-        },
-        {
-            "id": "05409ff6-d10c-4c66-a790-184171121c92",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "20",
-            "varName": "hit_points",
-            "varType": 1
         }
     ],
     "solid": false,

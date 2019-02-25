@@ -25,16 +25,6 @@
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         },
         {
-            "id": "ebdef9eb-fcdc-46db-be06-c863833a6a13",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 9,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
             "id": "f8de0a0d-a194-4547-8979-646e83fb3330",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,16 +32,6 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 37,
             "eventtype": 10,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
-            "id": "39ae3212-d1b5-4057-8a67-0186a1e1ce72",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 9,
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         },
         {
@@ -112,6 +92,26 @@
             "collisionObjectId": "ff514faa-7033-4afc-80f0-5eace10f7467",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "87cfcd3d-bd90-4cda-83d1-b1f341e7450b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 32,
+            "eventtype": 5,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "444570fb-2700-4563-925d-7e5cb72e413c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 16,
+            "eventtype": 5,
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         }
     ],
@@ -214,20 +214,6 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "sprite_choice",
-            "varType": 1
-        },
-        {
-            "id": "e13694bf-a01b-4481-bac0-418d675aba7c",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "100",
-            "varName": "hitpoints",
             "varType": 1
         },
         {
