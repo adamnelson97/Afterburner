@@ -296,6 +296,20 @@
             "value": "100",
             "varName": "hit_points",
             "varType": 1
+        },
+        {
+            "id": "81921691-8d9a-438a-87fc-7d789358ac4c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "bullet_reset",
+            "varType": 1
         }
     ],
     "solid": false,
