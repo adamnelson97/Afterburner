@@ -1,1 +1,1 @@
-image_angle -= rotation_amt
+image_angle -= rotation_amt;

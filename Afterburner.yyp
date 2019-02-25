@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "4d4426a3-5911-4546-9452-05719f32996f",
+            "Value": {
+                "id": "dda998c4-1c05-4b83-a9cc-8428d0d026e4",
+                "resourcePath": "sprites\\sCannon\\sCannon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56dee811-0833-4c60-979a-75087a779975",
             "Value": {
                 "id": "78cc6b64-22a0-49c2-a5f0-7a27549b3f75",
@@ -124,6 +132,14 @@
                 "id": "a29de5c4-7911-4cc0-89fb-4be0ce038c8d",
                 "resourcePath": "views\\797456ee-f41c-4281-8985-dded969e61e5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79cbb3be-1aa5-4b53-907f-af98a2b9ef21",
+            "Value": {
+                "id": "0e2a257b-9b75-4372-aa64-ca5173d849ae",
+                "resourcePath": "objects\\oBulletPlayer\\oBulletPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +204,14 @@
                 "id": "f501c2f2-7e65-46b5-b039-edb7ff084e88",
                 "resourcePath": "sprites\\sF15\\sF15.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf680ec0-fe52-4737-b875-5acd4dc8bdb4",
+            "Value": {
+                "id": "e4da1e1d-b490-4cb1-802a-2ac1702cd7ba",
+                "resourcePath": "objects\\oBulletEnemy\\oBulletEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {

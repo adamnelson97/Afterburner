@@ -103,6 +103,16 @@
             "enumb": 39,
             "eventtype": 5,
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "3da89bc7-fb5d-4c0c-af25-4f501e8b9115",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 16,
+            "eventtype": 5,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -134,7 +144,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "missiles",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "281d4a61-c25d-4c8c-82f6-575aecba8c07",
@@ -148,7 +158,7 @@
             "resourceFilter": 1023,
             "value": "20",
             "varName": "rotation_amt",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "b481ecdb-3d12-4be7-a11e-50c0fd28a943",
@@ -162,7 +172,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "bullet_timer",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "22d63650-c5d3-46c0-b888-59d30110e8ff",
@@ -176,7 +186,7 @@
             "resourceFilter": 1023,
             "value": "14",
             "varName": "horiz_speed",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "e20b71ea-46cd-47a1-b3b5-bb8b868055f7",
@@ -190,7 +200,7 @@
             "resourceFilter": 1023,
             "value": "10",
             "varName": "vert_speed",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "3438bf8b-83e7-4187-b193-f1037466a4cb",
@@ -204,7 +214,49 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "sprite_choice",
-            "varType": 0
+            "varType": 1
+        },
+        {
+            "id": "e13694bf-a01b-4481-bac0-418d675aba7c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "hitpoints",
+            "varType": 1
+        },
+        {
+            "id": "e5371348-177b-4787-a444-338977c636ee",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "x_vel",
+            "varType": 1
+        },
+        {
+            "id": "cdcbd23e-058f-4a6c-9d10-cc94eb3cde9d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "y_vel",
+            "varType": 1
         }
     ],
     "solid": false,

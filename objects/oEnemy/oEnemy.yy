@@ -44,7 +44,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "missiles",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "af1d5372-11af-41bb-9484-7717bc6dbe27",
@@ -58,7 +58,7 @@
             "resourceFilter": 1023,
             "value": "20",
             "varName": "rotation_amt",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "86801ed1-6473-42b2-95ee-a0ed64e3f90f",
@@ -72,7 +72,7 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "bullet_timer",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "bcf30964-ef99-4521-bff6-079104d5b5ab",
@@ -86,7 +86,7 @@
             "resourceFilter": 1023,
             "value": "14",
             "varName": "horiz_speed",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "ed5c1b11-0935-4b5a-9017-4d85ddeb56ff",
@@ -100,7 +100,21 @@
             "resourceFilter": 1023,
             "value": "10",
             "varName": "vert_speed",
-            "varType": 0
+            "varType": 1
+        },
+        {
+            "id": "05409ff6-d10c-4c66-a790-184171121c92",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "hit_points",
+            "varType": 1
         }
     ],
     "solid": false,
