@@ -3,7 +3,7 @@
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "pEnemy1",
-    "closed": false,
+    "closed": true,
     "hsnap": 0,
     "kind": 0,
     "points": [
