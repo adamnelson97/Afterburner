@@ -2,6 +2,8 @@
 x = clamp(x, 50, room_width - 50);
 y = clamp(y, 50, room_height - 50);
 
+y += y_vel;
+
 // Decrement timer so bullets don't fire constantly
 if (bullet_timer > 0) {
 	bullet_timer--;
@@ -14,3 +16,11 @@ if (image_angle > 0) {
 else if (image_angle < 0) {
 	image_angle++;
 }
+
+if (y_vel > 0) {
+	y_vel--;
+}
+else if (y_vel < 0) {
+	y_vel++;
+}
+

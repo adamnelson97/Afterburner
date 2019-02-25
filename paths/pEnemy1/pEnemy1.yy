@@ -19,7 +19,7 @@
             "id": "deed0278-3018-42b4-93ac-ecf15b42714b",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1856,
+            "x": 1344,
             "y": 192,
             "speed": 100
         }

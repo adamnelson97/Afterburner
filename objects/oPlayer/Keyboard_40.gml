@@ -1,2 +1,1 @@
-y += vert_speed;
-y_vel = vert_speed;
+if (y_vel < vert_speed) y_vel+=2;
