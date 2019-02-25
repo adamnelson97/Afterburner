@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3a186237-b15a-435b-9857-862204e4caab",
+            "Value": {
+                "id": "350fd9b2-5c84-44a0-be6d-88b897fef22d",
+                "resourcePath": "paths\\pEnemy1\\pEnemy1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "42df9cb9-a85d-46a2-9dfe-327e5f3db57b",
             "Value": {
                 "id": "244d0367-ebff-48f6-b0cf-cd72cb4e330a",
