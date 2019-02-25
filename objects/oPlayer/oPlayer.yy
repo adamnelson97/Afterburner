@@ -139,7 +139,36 @@
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
-    "physicsShapePoints": null,
+    "physicsShapePoints": [
+        {
+            "id": "19e5f4ff-d76b-4335-bc54-df6e2ff20d11",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "id": "83b187a3-de8a-4512-b806-1ae3797d4eba",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 128,
+            "y": 0
+        },
+        {
+            "id": "6a4b2e73-4ffa-46c2-98a6-2359166702cb",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 128,
+            "y": 128
+        },
+        {
+            "id": "525dc330-7fa6-4313-be67-2c4b5e036c68",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 128
+        }
+    ],
     "physicsStartAwake": true,
     "properties": [
         {
@@ -252,6 +281,20 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "y_vel",
+            "varType": 1
+        },
+        {
+            "id": "d62f87ff-ddba-4756-8d07-c637670bc4e2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "hit_points",
             "varType": 1
         }
     ],
