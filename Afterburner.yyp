@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "0511a229-ddb5-41fd-ab23-829def09a40c",
+            "Value": {
+                "id": "1e53525c-0c02-4351-b1e6-dcef9a501ebc",
+                "resourcePath": "objects\\oQuitButton\\oQuitButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "14b27809-bcf5-41b9-8bad-d9aa379173ca",
+            "Value": {
+                "id": "ad588842-11d4-4f56-8d1e-d3ec102fbb5c",
+                "resourcePath": "sprites\\sTitle\\sTitle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fece775-2218-4de1-b8e0-85677533e6a7",
             "Value": {
                 "id": "b7a75ee7-0564-4c52-b1a7-cf09e6397cfc",
@@ -127,6 +143,14 @@
             }
         },
         {
+            "Key": "5b4eb956-7c7e-4c6a-9add-6434d44ead59",
+            "Value": {
+                "id": "5a2e8533-53b8-45fc-abd0-0200cdb700d3",
+                "resourcePath": "sprites\\sQuitButton\\sQuitButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5fe4f40e-55f4-4731-a1b6-0237a8eda384",
             "Value": {
                 "id": "fed8d4b5-e08c-40dc-a10f-921d88ff032f",
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "7ffd8f51-3d55-4803-acd0-8b7a70f75c6a",
+            "Value": {
+                "id": "b124a1ee-2e67-47b8-b597-cfc90f3f6367",
+                "resourcePath": "sprites\\sTitleScreenBackground\\sTitleScreenBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417",
             "Value": {
                 "id": "17e64b94-e329-4fd4-8416-0193962a9912",
@@ -212,6 +244,14 @@
                 "id": "ba882a80-3c17-4d45-a71f-ee1c175857d1",
                 "resourcePath": "sprites\\sCannonBlack\\sCannonBlack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "956fe4ce-37d2-46c0-ac6e-3860c2ffcc9e",
+            "Value": {
+                "id": "9abfb5c9-5cff-40b8-880c-a13fbfd4cd28",
+                "resourcePath": "objects\\oTitle\\oTitle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,6 +295,14 @@
             }
         },
         {
+            "Key": "c2952065-f136-4002-adcc-12f9006ec1db",
+            "Value": {
+                "id": "63937e1a-9517-4e0f-be7d-0b701662d045",
+                "resourcePath": "rooms\\titleScreen\\titleScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c6ff12b5-9830-47da-9aa3-d2444c4d6271",
             "Value": {
                 "id": "eb7910ea-6362-4af1-8c6d-5dcda2b47338",
@@ -271,6 +319,14 @@
             }
         },
         {
+            "Key": "e60065cc-df61-435f-825a-dd977c7bcae3",
+            "Value": {
+                "id": "a6baeb4c-0032-420b-83a5-1a095baf2654",
+                "resourcePath": "objects\\oStartButton\\oStartButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea765c04-6abf-4147-b3de-02a44af5cf2f",
             "Value": {
                 "id": "4d793e63-378a-4fcc-9a93-9e8f404fe2ed",
@@ -284,6 +340,14 @@
                 "id": "3998be22-d056-4be2-ab4a-a6f6de25b760",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f6882605-92ca-4593-835b-a1df59a9b4b5",
+            "Value": {
+                "id": "246ed1e7-5cfc-42a0-bf1d-ecc65dab729f",
+                "resourcePath": "sprites\\sStartButton\\sStartButton.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
