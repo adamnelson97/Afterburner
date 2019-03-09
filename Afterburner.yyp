@@ -223,11 +223,27 @@
             }
         },
         {
+            "Key": "856d4215-d80b-4d69-b870-524cd0e94615",
+            "Value": {
+                "id": "090676d1-67be-49bd-b2d9-631ddc14f26d",
+                "resourcePath": "sprites\\sMissilePowerUp\\sMissilePowerUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85793929-fa8c-4f3d-9446-683cf2dd5a2d",
             "Value": {
                 "id": "e857c56a-ea29-4ec4-8210-a0815a708491",
                 "resourcePath": "rooms\\algiers\\algiers.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "87f745ee-1b94-42e6-931d-f83acbde03a8",
+            "Value": {
+                "id": "eeb41d8e-3fc6-47e6-bf42-4a7fbe309352",
+                "resourcePath": "objects\\oMissilePowerUp\\oMissilePowerUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,6 +335,14 @@
             }
         },
         {
+            "Key": "e0134340-0381-4551-b13e-8f5b31a34fa1",
+            "Value": {
+                "id": "183fac01-7254-4e8a-a070-7025aaa2b25f",
+                "resourcePath": "objects\\oMissilePlayer\\oMissilePlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e60065cc-df61-435f-825a-dd977c7bcae3",
             "Value": {
                 "id": "a6baeb4c-0032-420b-83a5-1a095baf2654",
@@ -332,6 +356,14 @@
                 "id": "4d793e63-378a-4fcc-9a93-9e8f404fe2ed",
                 "resourcePath": "views\\ea765c04-6abf-4147-b3de-02a44af5cf2f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee2f22e9-bfc0-48e3-8379-240b73bf2f11",
+            "Value": {
+                "id": "295b7a85-c3b0-4ab2-96f7-8dbe8219a94f",
+                "resourcePath": "sprites\\sMissile\\sMissile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,5 +1,5 @@
 /// @description Collision with Enemy Fire
-hit_points-=1;
+hit_points-=2;
 if (hit_points <= 0) {
 	effect_create_above(ef_explosion, x, y, 1, c_dkgray);
 	effect_create_above(ef_firework, x, y, 1, c_yellow);

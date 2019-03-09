@@ -193,6 +193,26 @@
             "enumb": 0,
             "eventtype": 1,
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "1aa8fcc6-6a64-4bd5-8038-ea3922307689",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 73,
+            "eventtype": 8,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "08b5bf48-5e86-4a20-8d41-a990cac3c5e3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "87f745ee-1b94-42e6-931d-f83acbde03a8",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -379,6 +399,34 @@
             "resourceFilter": 1023,
             "value": "3",
             "varName": "bullet_reset",
+            "varType": 1
+        },
+        {
+            "id": "8ef6c9b6-c4e7-4fcf-962c-8c48d986f5bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "missile_active",
+            "varType": 3
+        },
+        {
+            "id": "cfee57af-e808-404c-9dc5-81f90ac4e6d1",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "missile_count",
             "varType": 1
         }
     ],

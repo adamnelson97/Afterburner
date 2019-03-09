@@ -24,3 +24,6 @@ else if (y_vel < 0) {
 	y_vel++;
 }
 
+if (missile_count == 0) {
+	missile_active = false;	
+}
