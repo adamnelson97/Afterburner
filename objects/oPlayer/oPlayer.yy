@@ -262,20 +262,6 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "db09abdf-b199-4ace-b9de-743386065b78",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "missiles",
-            "varType": 1
-        },
-        {
             "id": "281d4a61-c25d-4c8c-82f6-575aecba8c07",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",

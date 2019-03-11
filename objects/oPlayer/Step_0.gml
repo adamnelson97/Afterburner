@@ -24,6 +24,8 @@ else if (y_vel < 0) {
 	y_vel++;
 }
 
+
+// Change missile boolean if out of ammo
 if (missile_count == 0) {
 	missile_active = false;	
 }
