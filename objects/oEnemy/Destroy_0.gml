@@ -6,10 +6,12 @@ effect_create_below(ef_ring, x, y, 2, c_white);
 
 var powerup;
 var random_num;
-random_num = random_range(0,3);
+random_num = random_range(0,10);
 
-if(random_num >= 2) {
+if(random_num <= 4) {
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
+} else if (random_num > 4 && random_num <= 7) {
+	powerup = instance_create_layer(x, y, "Instances", oNuke);
 }
 
 global.Score += 100;
