@@ -1,42 +1,42 @@
 {
-    "id": "3a186237-b15a-435b-9857-862204e4caab",
+    "id": "9d9e8740-d273-4ab2-ab1e-6aeeaa70d667",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "pEnemy1",
+    "name": "pBoss",
     "closed": true,
     "hsnap": 0,
     "kind": 1,
     "points": [
         {
-            "id": "480efb64-ee07-45fc-8260-1a970b2e9be8",
+            "id": "227f74c2-e504-4f66-ab30-38570815ec90",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -384,
-            "y": 224,
+            "x": 192,
+            "y": 192,
             "speed": 100
         },
         {
-            "id": "deed0278-3018-42b4-93ac-ecf15b42714b",
+            "id": "ce0a4cec-935a-4050-b065-629ea83bb9f6",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1920,
-            "y": 224,
+            "x": 1344,
+            "y": 192,
             "speed": 100
         },
         {
-            "id": "e42765ed-0340-4fc9-9343-3c38ce8323e9",
+            "id": "4db628d5-ed28-4247-a558-7a8c3d41b75f",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -384,
-            "y": 768,
+            "x": 224,
+            "y": 864,
             "speed": 100
         },
         {
-            "id": "0c2ed253-102b-4583-b393-26c4fb0ce481",
+            "id": "b69aadeb-b325-4c4d-93fa-fa6f547dbd4c",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1920,
-            "y": 768,
+            "x": 1312,
+            "y": 864,
             "speed": 100
         }
     ],

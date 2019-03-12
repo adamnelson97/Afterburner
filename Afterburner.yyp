@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0824bb2e-1ee8-4af3-98b0-784c7d1f5cdc",
+            "Value": {
+                "id": "de5f9d2c-6fb8-44c2-8518-b8aeab3bfdbb",
+                "resourcePath": "objects\\oWingmanHostileLaser\\oWingmanHostileLaser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ab6aae0-a48e-4ac1-b7bd-eb2c9862004f",
             "Value": {
                 "id": "9936d21c-a7fd-4642-a58e-9552f1289570",
@@ -84,6 +92,22 @@
                 "id": "b7a75ee7-0564-4c52-b1a7-cf09e6397cfc",
                 "resourcePath": "views\\1fece775-2218-4de1-b8e0-85677533e6a7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2c56c502-0a86-4ba1-af3e-9313134f7cdb",
+            "Value": {
+                "id": "cb970843-6647-49ac-b46a-c7a27c0c4593",
+                "resourcePath": "sprites\\sWingmanHostileLaser\\sWingmanHostileLaser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31347c20-08c2-477e-abab-b60db1513653",
+            "Value": {
+                "id": "450f2caa-4b4a-434f-9020-8246c056b47e",
+                "resourcePath": "objects\\oLaser\\oLaser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "754032ae-4d29-4795-80de-5e497a6b6848",
+            "Value": {
+                "id": "30e51840-670b-42e6-a262-602a292cc4a4",
+                "resourcePath": "sprites\\sLaser\\sLaser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "797456ee-f41c-4281-8985-dded969e61e5",
             "Value": {
                 "id": "a29de5c4-7911-4cc0-89fb-4be0ce038c8d",
@@ -303,6 +335,14 @@
             }
         },
         {
+            "Key": "9d9e8740-d273-4ab2-ab1e-6aeeaa70d667",
+            "Value": {
+                "id": "d6b12046-9296-439d-9d92-f3f5aaae52c3",
+                "resourcePath": "paths\\pBoss\\pBoss.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "3f6c2908-c95c-4cff-bfbd-d25e683ddfa3",
@@ -316,6 +356,14 @@
                 "id": "bcc7ff63-bb3f-4a45-9adf-42eab34da0f0",
                 "resourcePath": "sprites\\sCannonPink\\sCannonPink.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b5b4c5dc-9a4c-44a5-bccb-49755175c2d2",
+            "Value": {
+                "id": "592269fe-90a2-4591-9849-38f1f0dd0a82",
+                "resourcePath": "objects\\oWingmanHostile\\oWingmanHostile.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +423,14 @@
             }
         },
         {
+            "Key": "c80f3375-6950-4778-87d3-e1d80e8e5315",
+            "Value": {
+                "id": "c6883c13-dc43-4832-a390-cf277b4cf206",
+                "resourcePath": "rooms\\algiersBoss\\algiersBoss.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c9a76171-d817-4378-ad23-38047bf8bc4f",
             "Value": {
                 "id": "56173be5-1f7c-4e36-a275-e09adc9d7d41",
@@ -388,6 +444,14 @@
                 "id": "546720a0-7f0a-43ae-a3b7-f841067890d4",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d3b6a849-8df7-45c4-b3b5-330885a10cd5",
+            "Value": {
+                "id": "adbf959e-c80f-4307-815e-48d095bd6d87",
+                "resourcePath": "sprites\\sWingmanHostile\\sWingmanHostile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
