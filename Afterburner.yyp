@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "56796ea8-b8cc-455b-963a-e0971ba61960",
+            "Value": {
+                "id": "a26b89e0-c507-4757-82cb-8b3775d4e9af",
+                "resourcePath": "sprites\\sWingmanPowerup\\sWingmanPowerup.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56dee811-0833-4c60-979a-75087a779975",
             "Value": {
                 "id": "78cc6b64-22a0-49c2-a5f0-7a27549b3f75",
@@ -348,6 +356,14 @@
                 "id": "63937e1a-9517-4e0f-be7d-0b701662d045",
                 "resourcePath": "rooms\\titleScreen\\titleScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c63b396d-3635-4987-a5b0-555453446fa9",
+            "Value": {
+                "id": "e219047e-be20-4922-a79c-6ef39566b29f",
+                "resourcePath": "objects\\oWingmanPowerUp\\oWingmanPowerUp.yy",
+                "resourceType": "GMObject"
             }
         },
         {

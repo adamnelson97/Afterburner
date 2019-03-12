@@ -1,31 +1,10 @@
 // Keep the player on the screen
-x = clamp(x, 50, room_width - 50);
-y = clamp(y, 50, room_height - 50);
+x = oPlayer.x - 96;
+y = oPlayer.y + 64;
 
-y += y_vel;
+image_angle = oPlayer.image_angle;
 
 // Decrement timer so bullets don't fire constantly
 if (bullet_timer > 0) {
 	bullet_timer--;
-}
-
-// Naturally reset aircraft to original angle
-if (image_angle > 0) {
-	image_angle--;
-}
-else if (image_angle < 0) {
-	image_angle++;
-}
-
-if (y_vel > 0) {
-	y_vel--;
-}
-else if (y_vel < 0) {
-	y_vel++;
-}
-
-
-// Change missile boolean if out of ammo
-if (missile_count == 0) {
-	missile_active = false;	
 }

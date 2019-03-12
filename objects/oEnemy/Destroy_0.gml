@@ -17,9 +17,11 @@ if(random_num <= 3) {
 }
 
 // Randomly drop major power-up objects
-random_num = random_range(0,100);
-if (random_num <= 5) {
+random_num = random_range(0,20);
+if (random_num <= 1) {
 	powerup = instance_create_layer(x, y, "Instances", oNuke);
+} else if (random_num > 1 && random_num <= 4) {
+	powerup = instance_create_layer(x, y, "Instances", oWingmanPowerUp);
 }
 
 global.Score += 100;
