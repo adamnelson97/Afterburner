@@ -9,10 +9,12 @@ var random_num;
 random_num = random_range(0,10);
 
 // Randomly drop minor power-up objects
-if(random_num <= 4) {
+if(random_num <= 3) {
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
 	powerup.image_angle = 180;
-} 
+} else if (random_num > 3 && random_num <= 6) {
+	powerup = instance_create_layer(x, y, "Instances", oHealth);
+}
 
 // Randomly drop major power-up objects
 random_num = random_range(0,100);

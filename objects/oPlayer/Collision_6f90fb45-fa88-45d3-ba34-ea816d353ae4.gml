@@ -1,0 +1,1 @@
+hit_points += 25;
