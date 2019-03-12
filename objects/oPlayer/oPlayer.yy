@@ -145,26 +145,6 @@
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         },
         {
-            "id": "0defa931-b963-48cb-8d0b-2900db6e536c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 65,
-            "eventtype": 10,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
-            "id": "0c4db58d-54c9-4edb-8964-494bab8dd300",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 68,
-            "eventtype": 10,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
             "id": "19e3c628-dd4a-482c-84eb-316c9e76a530",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -281,7 +261,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "20",
+            "value": "14",
             "varName": "rotation_amt",
             "varType": 1
         },

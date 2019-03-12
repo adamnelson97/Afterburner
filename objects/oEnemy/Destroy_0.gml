@@ -12,7 +12,7 @@ random_num = random_range(0,10);
 if(random_num <= 3) {
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
 	powerup.image_angle = 180;
-} else if (random_num > 3 && random_num <= 6) {
+} else if (random_num > 3 && random_num <= 5) {
 	powerup = instance_create_layer(x, y, "Instances", oHealth);
 }
 
@@ -20,7 +20,7 @@ if(random_num <= 3) {
 random_num = random_range(0,20);
 if (random_num <= 1) {
 	powerup = instance_create_layer(x, y, "Instances", oNuke);
-} else if (random_num > 1 && random_num <= 4) {
+} else if (random_num > 1 && random_num <= 3) {
 	powerup = instance_create_layer(x, y, "Instances", oWingmanPowerUp);
 }
 
