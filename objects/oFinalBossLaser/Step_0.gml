@@ -8,7 +8,7 @@ else if (laser_timer == 0) {
 
 if (hit_points <= 0) {
 	var phase_two;
-	phase_two = instance_create_layer(x, y, "Instances", oWingmanHostile);
+	phase_two = instance_create_layer(x, y, "Instances", oFinalBoss);
 	with (phase_two) {
 		phase_two.image_angle = image_angle;
 		phase_two.x = x;

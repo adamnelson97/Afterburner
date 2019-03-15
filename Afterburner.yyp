@@ -58,7 +58,7 @@
             "Key": "0824bb2e-1ee8-4af3-98b0-784c7d1f5cdc",
             "Value": {
                 "id": "de5f9d2c-6fb8-44c2-8518-b8aeab3bfdbb",
-                "resourcePath": "objects\\oWingmanHostileLaser\\oWingmanHostileLaser.yy",
+                "resourcePath": "objects\\oFinalBossLaser\\oFinalBossLaser.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "2c56c502-0a86-4ba1-af3e-9313134f7cdb",
             "Value": {
                 "id": "cb970843-6647-49ac-b46a-c7a27c0c4593",
-                "resourcePath": "sprites\\sWingmanHostileLaser\\sWingmanHostileLaser.yy",
+                "resourcePath": "sprites\\sFinalBossLaser\\sFinalBossLaser.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -362,7 +362,7 @@
             "Key": "b5b4c5dc-9a4c-44a5-bccb-49755175c2d2",
             "Value": {
                 "id": "592269fe-90a2-4591-9849-38f1f0dd0a82",
-                "resourcePath": "objects\\oWingmanHostile\\oWingmanHostile.yy",
+                "resourcePath": "objects\\oFinalBoss\\oFinalBoss.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -450,7 +450,7 @@
             "Key": "d3b6a849-8df7-45c4-b3b5-330885a10cd5",
             "Value": {
                 "id": "adbf959e-c80f-4307-815e-48d095bd6d87",
-                "resourcePath": "sprites\\sWingmanHostile\\sWingmanHostile.yy",
+                "resourcePath": "sprites\\sFinalBoss\\sFinalBoss.yy",
                 "resourceType": "GMSprite"
             }
         },

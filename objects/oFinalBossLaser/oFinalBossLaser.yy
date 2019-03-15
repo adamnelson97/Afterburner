@@ -2,7 +2,7 @@
     "id": "0824bb2e-1ee8-4af3-98b0-784c7d1f5cdc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWingmanHostileLaser",
+    "name": "oFinalBossLaser",
     "eventList": [
         {
             "id": "c6f40ed9-a182-4c92-b9df-317ee1e01afb",

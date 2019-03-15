@@ -2,7 +2,7 @@
     "id": "b5b4c5dc-9a4c-44a5-bccb-49755175c2d2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWingmanHostile",
+    "name": "oFinalBoss",
     "eventList": [
         {
             "id": "aaa21c7f-56be-4710-a8fa-c6d956120df2",

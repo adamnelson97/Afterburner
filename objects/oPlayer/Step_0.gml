@@ -1,6 +1,6 @@
 // Keep the player on the screen
 
-if(!instance_exists(oEnemy) && !instance_exists(oWingmanHostileLaser) && !instance_exists(oWingmanHostile)) room_goto_next();
+if(!instance_exists(oEnemy) && !instance_exists(oFinalBossLaser) && !instance_exists(oFinalBoss)) room_goto_next();
 
 x = clamp(x, 50, room_width - 50);
 y = clamp(y, 50, room_height - 50);

@@ -2,7 +2,7 @@
     "id": "d3b6a849-8df7-45c4-b3b5-330885a10cd5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sWingmanHostile",
+    "name": "sFinalBoss",
     "For3D": false,
     "HTile": false,
     "VTile": false,

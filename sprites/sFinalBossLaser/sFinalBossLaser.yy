@@ -2,7 +2,7 @@
     "id": "2c56c502-0a86-4ba1-af3e-9313134f7cdb",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sWingmanHostileLaser",
+    "name": "sFinalBossLaser",
     "For3D": false,
     "HTile": false,
     "VTile": false,
