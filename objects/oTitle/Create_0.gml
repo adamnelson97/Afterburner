@@ -1,0 +1,1 @@
+global.Score = 0;

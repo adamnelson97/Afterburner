@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "0226f8ed-687c-4316-bedf-4c6349e84a8c",
+            "Value": {
+                "id": "e5561559-3108-47e7-8980-b4d93b5edaa2",
+                "resourcePath": "sprites\\sPatrolBoat\\sPatrolBoat.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "04086b0f-2d22-48cd-b4e1-bb0cde0f73dd",
+            "Value": {
+                "id": "386dac5d-4aa6-4007-807a-a7eb458e9afd",
+                "resourcePath": "sprites\\sNormandy\\sNormandy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "045b497a-462a-408b-bd42-672af671c2f1",
             "Value": {
                 "id": "4da9c16c-af0c-4228-972b-47a25a88d5ee",
@@ -95,10 +111,26 @@
             }
         },
         {
+            "Key": "276216c9-00a0-4ca9-a64f-0dcbdc63c3fb",
+            "Value": {
+                "id": "1b8463be-477d-4475-928e-ededbce9186e",
+                "resourcePath": "sprites\\sDebris\\sDebris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c56c502-0a86-4ba1-af3e-9313134f7cdb",
             "Value": {
                 "id": "cb970843-6647-49ac-b46a-c7a27c0c4593",
                 "resourcePath": "sprites\\sFinalBossLaser\\sFinalBossLaser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d602d67-dfd0-4e3e-813c-57d243463a4a",
+            "Value": {
+                "id": "bee5c91d-be1a-4208-a7ee-d5e2eeb55960",
+                "resourcePath": "sprites\\sDestroyerBoat\\sDestroyerBoat.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -127,11 +159,27 @@
             }
         },
         {
+            "Key": "34bfb0a7-64d4-4142-a2d4-2170d932ced0",
+            "Value": {
+                "id": "96f48e66-ef4a-477f-b259-ddac143afbf2",
+                "resourcePath": "rooms\\normandy\\normandy.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "3a186237-b15a-435b-9857-862204e4caab",
             "Value": {
                 "id": "350fd9b2-5c84-44a0-be6d-88b897fef22d",
                 "resourcePath": "paths\\pEnemy1\\pEnemy1.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "3d1abfad-ddca-40e7-8781-45ab020ab984",
+            "Value": {
+                "id": "28cc5710-a890-43d1-8ed1-42436de0569d",
+                "resourcePath": "rooms\\florida\\florida.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -143,6 +191,14 @@
             }
         },
         {
+            "Key": "47581806-4f5f-4c24-9dcc-10cd41093f8a",
+            "Value": {
+                "id": "6e7e6df9-7cb4-4c84-8112-06ca285b4cfb",
+                "resourcePath": "rooms\\washington\\washington.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "47c127b9-d058-424a-be10-798de5f11331",
             "Value": {
                 "id": "48c649c5-327c-4bb4-9c27-e4790fa6dcf5",
@@ -151,10 +207,26 @@
             }
         },
         {
+            "Key": "47e0ee70-3d92-47cd-8c2b-c40165749332",
+            "Value": {
+                "id": "8d33eaf7-8d71-4ed5-b88c-1796fb169573",
+                "resourcePath": "sprites\\sVillage_hut\\sVillage_hut.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d4426a3-5911-4546-9452-05719f32996f",
             "Value": {
                 "id": "dda998c4-1c05-4b83-a9cc-8428d0d026e4",
                 "resourcePath": "sprites\\sCannon\\sCannon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4fb03616-1997-4864-bf7a-a2eb3dd32830",
+            "Value": {
+                "id": "6325ba77-31cc-4117-aa07-bc5ce5aeb890",
+                "resourcePath": "sprites\\sAlgiers\\sAlgiers.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -212,14 +284,6 @@
                 "id": "c7a7659b-e626-4d5b-9cf3-7ce3bee63b43",
                 "resourcePath": "views\\6462bf79-081a-4707-9cfb-3fe6dae0998e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "6b760560-8ad4-4d23-a4d5-61f31da58e69",
-            "Value": {
-                "id": "576708cd-de0b-41ff-83bf-8e3e556f4564",
-                "resourcePath": "sprites\\sAlgiers\\sAlgiers.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -451,6 +515,22 @@
             "Value": {
                 "id": "adbf959e-c80f-4307-815e-48d095bd6d87",
                 "resourcePath": "sprites\\sFinalBoss\\sFinalBoss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d9065498-0cd2-4742-8135-9f7930a55d35",
+            "Value": {
+                "id": "593cc93d-d46b-4fef-b4a4-c4cfd2eb3edf",
+                "resourcePath": "rooms\\bastogne\\bastogne.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "def92d2f-0aef-4a77-9cbe-ea950bc86c63",
+            "Value": {
+                "id": "1a7f074b-f1a0-4cf1-892e-65da041d18ba",
+                "resourcePath": "sprites\\sAircraftCarrier\\sAircraftCarrier.yy",
                 "resourceType": "GMSprite"
             }
         },
