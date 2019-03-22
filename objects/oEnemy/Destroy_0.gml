@@ -6,21 +6,16 @@ effect_create_below(ef_ring, x, y, 2, c_white);
 
 var powerup;
 var random_num;
-random_num = random_range(0,10);
+random_num = random_range(0,20);
 
-// Randomly drop minor power-up objects
-if(random_num <= 3) {
+if (random_num <= 1) { // 5% chance
+	powerup = instance_create_layer(x, y, "Instances", oNuke);
+} else if(random_num >= 2 && random_num <= 5) { // 20% chance
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
 	powerup.image_angle = 180;
-} else if (random_num > 3 && random_num <= 5) {
+} else if (random_num >= 6 && random_num <= 9) { // 20% chance 
 	powerup = instance_create_layer(x, y, "Instances", oHealth);
-}
-
-// Randomly drop major power-up objects
-random_num = random_range(0,20);
-if (random_num <= 1) {
-	powerup = instance_create_layer(x, y, "Instances", oNuke);
-} else if (random_num > 1 && random_num <= 3) {
+} else if (random_num >= 10 && random_num <= 14) { // 25% chance 
 	powerup = instance_create_layer(x, y, "Instances", oWingmanPowerUp);
 }
 
