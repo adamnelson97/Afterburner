@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "82623daa-a4f7-4bb5-9a13-f41641562660",
+            "Value": {
+                "id": "3d8ced9b-6164-486e-af40-93c48e55fddf",
+                "resourcePath": "sprites\\sBastogne\\sBastogne.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84016730-3d02-4519-9ad4-5108362b6bf5",
             "Value": {
                 "id": "f3fa1dd8-b8d0-481d-9ead-89b54f280dc7",
