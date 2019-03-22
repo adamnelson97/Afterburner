@@ -1,6 +1,6 @@
 
 {
-    "name": "algiersBoss",
+    "name": "finalBoss",
     "id": "c80f3375-6950-4778-87d3-e1d80e8e5315",
     "creationCodeFile": "",
     "inheritCode": false,

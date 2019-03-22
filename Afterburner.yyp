@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "3342ced3-2bc8-4265-b43e-0f5f21f034a4",
+            "Value": {
+                "id": "a4b68885-9208-4945-afb3-11c61205ab64",
+                "resourcePath": "sprites\\sCruiseShip\\sCruiseShip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3393fa94-a7f1-450b-8218-76458034a0d9",
             "Value": {
                 "id": "1b4de943-1937-49a6-ad66-b44bc76a4dcc",
@@ -178,7 +186,7 @@
             "Key": "3d1abfad-ddca-40e7-8781-45ab020ab984",
             "Value": {
                 "id": "28cc5710-a890-43d1-8ed1-42436de0569d",
-                "resourcePath": "rooms\\florida\\florida.yy",
+                "resourcePath": "rooms\\honduras\\honduras.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -194,7 +202,7 @@
             "Key": "47581806-4f5f-4c24-9dcc-10cd41093f8a",
             "Value": {
                 "id": "6e7e6df9-7cb4-4c84-8112-06ca285b4cfb",
-                "resourcePath": "rooms\\washington\\washington.yy",
+                "resourcePath": "rooms\\los_angeles\\los_angeles.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "7ef6ecaa-2447-427f-8a85-89bbed88a7ba",
+            "Value": {
+                "id": "0f2a7a32-cbdc-4440-ac39-adf7b9491bc0",
+                "resourcePath": "sprites\\sYacht\\sYacht.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ffd8f51-3d55-4803-acd0-8b7a70f75c6a",
             "Value": {
                 "id": "b124a1ee-2e67-47b8-b597-cfc90f3f6367",
@@ -395,6 +411,14 @@
             "Value": {
                 "id": "ba882a80-3c17-4d45-a71f-ee1c175857d1",
                 "resourcePath": "sprites\\sCannonBlack\\sCannonBlack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "92e8b13a-c13d-46d4-8484-10e861af2aa4",
+            "Value": {
+                "id": "b8f6b622-505e-4a65-9ec2-c2805682c14d",
+                "resourcePath": "sprites\\sLosAngeles\\sLosAngeles.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -498,7 +522,7 @@
             "Key": "c80f3375-6950-4778-87d3-e1d80e8e5315",
             "Value": {
                 "id": "c6883c13-dc43-4832-a390-cf277b4cf206",
-                "resourcePath": "rooms\\algiersBoss\\algiersBoss.yy",
+                "resourcePath": "rooms\\finalBoss\\finalBoss.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -516,6 +540,22 @@
                 "id": "546720a0-7f0a-43ae-a3b7-f841067890d4",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ccc94795-b9a6-4566-81bc-2e1ad7bc7cd5",
+            "Value": {
+                "id": "311d4aeb-bfbb-4284-9a3e-96633072fc77",
+                "resourcePath": "sprites\\sBuildings\\sBuildings.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d269702a-40c3-4160-999e-0fa8c7c5fcc5",
+            "Value": {
+                "id": "641d8564-cfca-4a49-ad30-153b7674c721",
+                "resourcePath": "sprites\\sHonduras\\sHonduras.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -1,6 +1,6 @@
 
 {
-    "name": "florida",
+    "name": "honduras",
     "id": "3d1abfad-ddca-40e7-8781-45ab020ab984",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -95,7 +95,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -107,13 +107,13 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "d269702a-40c3-4160-999e-0fa8c7c5fcc5",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
-            "vspeed": 0,
-            "vtiled": false,
+            "vspeed": 5,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }

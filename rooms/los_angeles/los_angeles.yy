@@ -1,6 +1,6 @@
 
 {
-    "name": "washington",
+    "name": "los_angeles",
     "id": "47581806-4f5f-4c24-9dcc-10cd41093f8a",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -86,7 +86,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "52c23c79-5c74-4e6c-bc11-6b7b17002fd8",
-            "animationFPS": 15,
+            "animationFPS": 8,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 200,
@@ -95,7 +95,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -107,13 +107,13 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "92e8b13a-c13d-46d4-8484-10e861af2aa4",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
-            "vspeed": 0,
-            "vtiled": false,
+            "vspeed": 5,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }
