@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "3b4fd8cd-0c42-4ec2-97e2-60e7f9f79642",
+            "Value": {
+                "id": "54673d87-d65c-4e33-be06-bf14a9a57bd2",
+                "resourcePath": "sounds\\select_sound\\select_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3d1abfad-ddca-40e7-8781-45ab020ab984",
             "Value": {
                 "id": "28cc5710-a890-43d1-8ed1-42436de0569d",
@@ -204,6 +212,14 @@
                 "id": "6e7e6df9-7cb4-4c84-8112-06ca285b4cfb",
                 "resourcePath": "rooms\\los_angeles\\los_angeles.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "475bf13a-43ed-4b16-9677-3a49c70d9e05",
+            "Value": {
+                "id": "991760ed-1e5a-483b-b809-5f310375c440",
+                "resourcePath": "sounds\\boss_destroyed_sound\\boss_destroyed_sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -236,6 +252,14 @@
                 "id": "6325ba77-31cc-4117-aa07-bc5ce5aeb890",
                 "resourcePath": "sprites\\sAlgiers\\sAlgiers.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51a24615-a50b-48ee-8414-d6e0d8c5f945",
+            "Value": {
+                "id": "6805e4b0-f686-4a55-ad7f-e718cb8992cd",
+                "resourcePath": "sounds\\background_music\\background_music.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -628,6 +652,14 @@
                 "id": "295b7a85-c3b0-4ab2-96f7-8dbe8219a94f",
                 "resourcePath": "sprites\\sMissile\\sMissile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2a8e1cb-4dfa-41c9-aa92-bc32e053c87f",
+            "Value": {
+                "id": "331a22da-9c71-48c6-a1d8-2bb9e35b3453",
+                "resourcePath": "sounds\\enemy_destroyed_sound\\enemy_destroyed_sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
