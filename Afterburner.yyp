@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "74bebd27-815f-48c3-8418-31942e1fdf57",
+            "Value": {
+                "id": "d12bd744-6522-475a-8cba-a8fcbd169745",
+                "resourcePath": "sprites\\sBossLevel\\sBossLevel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "754032ae-4d29-4795-80de-5e497a6b6848",
             "Value": {
                 "id": "30e51840-670b-42e6-a262-602a292cc4a4",
