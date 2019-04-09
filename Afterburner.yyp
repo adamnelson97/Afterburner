@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "43bdb37d-fee6-498f-aa70-4bc01c9a7c22",
+            "Value": {
+                "id": "d72dab36-cf32-4b9c-ba21-231ef1ba7fd1",
+                "resourcePath": "sounds\\player_bullet_sound\\player_bullet_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "47581806-4f5f-4c24-9dcc-10cd41093f8a",
             "Value": {
                 "id": "6e7e6df9-7cb4-4c84-8112-06ca285b4cfb",
@@ -652,6 +660,14 @@
                 "id": "a6baeb4c-0032-420b-83a5-1a095baf2654",
                 "resourcePath": "objects\\oStartButton\\oStartButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e70cfc7d-7026-4e99-84e8-f771e7ba73ae",
+            "Value": {
+                "id": "a0591f35-0805-4c18-a17f-12d70db32d36",
+                "resourcePath": "sounds\\missile_launch_sound\\missile_launch_sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
