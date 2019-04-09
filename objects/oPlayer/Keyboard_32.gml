@@ -8,6 +8,7 @@ if(bullet_timer == 0 && !missile_active) {
 		projectile.y_vel = oPlayer.y_vel-20*cos(pi/180*oPlayer.image_angle);
 	}
 	bullet_timer = bullet_reset;
+	if (!audio_is_playing(player_bullet_sound)) audio_play_sound(player_bullet_sound, 5, 0);
 }
 else if(bullet_timer == 0 && missile_active) {
 	projectile = instance_create_layer(x, y, "Instances", oMissilePlayer);

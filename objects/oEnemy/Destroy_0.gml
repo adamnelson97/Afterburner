@@ -19,5 +19,5 @@ if (random_num <= 1) { // 5% chance
 	powerup = instance_create_layer(x, y, "Instances", oWingmanPowerUp);
 }
 
-audio_play_sound(enemy_destroyed_sound, 2, 0);
+if (!audio_is_playing(enemy_destroyed_sound)) audio_play_sound(enemy_destroyed_sound, 2, 0);
 global.Score += 100;
