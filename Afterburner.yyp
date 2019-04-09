@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "f63c112b-d765-4090-b952-63127a4c00b1",
+            "Value": {
+                "id": "cd139377-d6ce-4fba-8355-b0fdfb085fba",
+                "resourcePath": "sounds\\powerup_sound\\powerup_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f6882605-92ca-4593-835b-a1df59a9b4b5",
             "Value": {
                 "id": "246ed1e7-5cfc-42a0-bf1d-ecc65dab729f",
