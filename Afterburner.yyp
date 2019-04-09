@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "278234f8-d618-45d8-9cea-40b31e64eddf",
+            "Value": {
+                "id": "53d167ef-49d6-4faa-bcc1-e5cd0edc1e45",
+                "resourcePath": "objects\\oControls\\oControls.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2c56c502-0a86-4ba1-af3e-9313134f7cdb",
             "Value": {
                 "id": "cb970843-6647-49ac-b46a-c7a27c0c4593",
@@ -196,6 +204,14 @@
                 "id": "28cc5710-a890-43d1-8ed1-42436de0569d",
                 "resourcePath": "rooms\\honduras\\honduras.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3e872df8-adc1-4821-a2ce-ffc4df5232ab",
+            "Value": {
+                "id": "cd24d3cf-00f9-4cf0-8183-36a6ff47a02e",
+                "resourcePath": "sprites\\sControls\\sControls.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "fed8d4b5-e08c-40dc-a10f-921d88ff032f",
                 "resourcePath": "views\\5fe4f40e-55f4-4731-a1b6-0237a8eda384.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6243b66a-27b1-429b-b6cd-eea88a23f7d8",
+            "Value": {
+                "id": "a032359e-3f59-45cc-a9d0-e8cc46ade01b",
+                "resourcePath": "rooms\\controls\\controls.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
