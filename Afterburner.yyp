@@ -103,11 +103,27 @@
             }
         },
         {
+            "Key": "19c4c42d-5d1e-4d7b-8766-88f540ba4156",
+            "Value": {
+                "id": "20aedc5d-a5d5-40c5-b209-a7842ab4aad0",
+                "resourcePath": "sprites\\sBomber\\sBomber.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fece775-2218-4de1-b8e0-85677533e6a7",
             "Value": {
                 "id": "b7a75ee7-0564-4c52-b1a7-cf09e6397cfc",
                 "resourcePath": "views\\1fece775-2218-4de1-b8e0-85677533e6a7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "23995e3e-be4e-452f-99e9-7f81c976775a",
+            "Value": {
+                "id": "2e019cae-00a9-4c80-b68f-fbb71d63d6e0",
+                "resourcePath": "rooms\\normandy_boss\\normandy_boss.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -284,6 +300,14 @@
                 "id": "548ce17b-747c-45c9-8240-d60bd2c7ff96",
                 "resourcePath": "sprites\\sCannonBlue\\sCannonBlue.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "55db8fd8-7045-423d-bc61-32f9b515fd8d",
+            "Value": {
+                "id": "0716ec2d-f151-49f8-8cc1-41c827aefb8d",
+                "resourcePath": "datafiles_yy\\Gatling Gun Firing 2x-SoundBible.com-119951091.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -471,6 +495,14 @@
             }
         },
         {
+            "Key": "90398f23-e3eb-4f6f-990c-c2cafebbba09",
+            "Value": {
+                "id": "8ecc7375-0435-478d-95aa-8d06a425d29b",
+                "resourcePath": "objects\\oBomber\\oBomber.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92e8b13a-c13d-46d4-8484-10e861af2aa4",
             "Value": {
                 "id": "b8f6b622-505e-4a65-9ec2-c2805682c14d",
@@ -484,6 +516,14 @@
                 "id": "9abfb5c9-5cff-40b8-880c-a13fbfd4cd28",
                 "resourcePath": "objects\\oTitle\\oTitle.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9911b433-f6c5-429a-9cd7-04e2ca0e105a",
+            "Value": {
+                "id": "6e162fae-16c4-4e00-bab7-5dd4b6e5ea18",
+                "resourcePath": "paths\\pBomber\\pBomber.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -516,6 +556,14 @@
                 "id": "592269fe-90a2-4591-9849-38f1f0dd0a82",
                 "resourcePath": "objects\\oFinalBoss\\oFinalBoss.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b677c439-81b9-4951-b091-03b2e707fd27",
+            "Value": {
+                "id": "a43162a5-41f0-4f70-afcc-3a2d938a99af",
+                "resourcePath": "datafiles_yy\\Gatling Gun Firing 2x-SoundBible.com-119951091.mp3.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -652,6 +700,14 @@
                 "id": "a6baeb4c-0032-420b-83a5-1a095baf2654",
                 "resourcePath": "objects\\oStartButton\\oStartButton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e67c24d8-6d9b-4c8f-b389-e1e30a0d43f9",
+            "Value": {
+                "id": "0877ff1f-2c90-48f8-a7f2-226fb950c29a",
+                "resourcePath": "sprites\\sEngine\\sEngine.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
