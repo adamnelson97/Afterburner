@@ -1,6 +1,6 @@
 // Keep the player on the screen
 
-if(!instance_exists(oEnemy) && !instance_exists(oFinalBossLaser) && !instance_exists(oFinalBoss)) {
+if(!instance_exists(oEnemy) && !instance_exists(oFinalBossLaser) && !instance_exists(oBomber) && !instance_exists(oFinalBoss)) {
 	if (room_next(room) != -1) {
 		room_goto_next();
 	} else {
