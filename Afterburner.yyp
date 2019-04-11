@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "11b10879-59fe-4dde-9e06-489806859d57",
+            "Value": {
+                "id": "ac992fe1-2683-432e-9ef9-7b30dc0892e4",
+                "resourcePath": "sprites\\sEnemyCannon\\sEnemyCannon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "122ee030-b4b5-44a2-b2cc-0021e20a2a3a",
             "Value": {
                 "id": "8da66f68-fbfa-4aa4-8701-eae93613bd14",
