@@ -1,0 +1,111 @@
+{
+    "id": "695a7aa7-80f7-4c49-9983-2e6b8d512804",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "oTurret",
+    "eventList": [
+        {
+            "id": "a201f1eb-967a-4c77-8b52-0c9114d8a320",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "695a7aa7-80f7-4c49-9983-2e6b8d512804"
+        },
+        {
+            "id": "a3f28c1a-4fcc-4580-becc-ce44f767e5c5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "79cbb3be-1aa5-4b53-907f-af98a2b9ef21",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "695a7aa7-80f7-4c49-9983-2e6b8d512804"
+        },
+        {
+            "id": "0f63d79a-e35a-4667-9f2f-fac2ab229e2a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "695a7aa7-80f7-4c49-9983-2e6b8d512804"
+        },
+        {
+            "id": "3d2d455c-9da9-41dd-9248-6688f534307b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "695a7aa7-80f7-4c49-9983-2e6b8d512804"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "90398f23-e3eb-4f6f-990c-c2cafebbba09",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "c2b9aa39-2683-4d32-8440-7f9bf2277be4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "turret_hp",
+            "varType": 1
+        },
+        {
+            "id": "ae0e8c27-c820-405b-81df-7066a8452120",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "bullet_timer",
+            "varType": 1
+        },
+        {
+            "id": "6419782a-87f1-4eb9-82e1-4deb17c05717",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "bullet_reset",
+            "varType": 1
+        }
+    ],
+    "solid": false,
+    "spriteId": "a83fa1c9-13d5-4f2c-9a29-1e4436bc7625",
+    "visible": true
+}

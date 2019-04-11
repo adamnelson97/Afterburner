@@ -1,0 +1,1 @@
+path_start(pBomber, 10, path_action_stop, 0);

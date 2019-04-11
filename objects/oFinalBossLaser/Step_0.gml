@@ -1,11 +1,15 @@
 image_angle = direction - 90;
-if (laser_timer > 0) laser_timer -= 1;
+
+if (laser_timer > 0) laser_timer--;
 else if (laser_timer == 0) {
-	laser_fire_time--;
+	laser_timer = 300;
+	laser_fire_time--
 	var projectile;
 	projectile = instance_create_layer(x, y, "Instances", oLaser);
 }
-
+if (laser_fire_time == 0) {
+	laser_fire_time = 120;
+}
 if (hit_points <= 0) {
 	var phase_two;
 	phase_two = instance_create_layer(x, y, "Instances", oFinalBoss);

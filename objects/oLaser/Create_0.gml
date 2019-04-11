@@ -1,2 +1,2 @@
-path_start(pBoss, 5, path_action_continue, 1);
+image_angle = oFinalBossLaser.image_angle;
 depth=-1;

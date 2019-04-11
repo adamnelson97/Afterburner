@@ -79,6 +79,34 @@
             "value": "0",
             "varName": "y_vel",
             "varType": 1
+        },
+        {
+            "id": "3d81ef1b-9544-4a13-a92a-52a3c8b7ff15",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "tgt",
+            "varType": 5
+        },
+        {
+            "id": "7109da98-7c6b-43f6-ba01-348e41f94304",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "tracking_lost",
+            "varType": 3
         }
     ],
     "solid": false,
