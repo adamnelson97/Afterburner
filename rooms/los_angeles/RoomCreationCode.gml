@@ -1,0 +1,1 @@
+window_set_caption("Afterburner - Level 5: Los Angeles");

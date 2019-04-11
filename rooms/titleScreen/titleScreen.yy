@@ -2,7 +2,7 @@
 {
     "name": "titleScreen",
     "id": "c2952065-f136-4002-adcc-12f9006ec1db",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
