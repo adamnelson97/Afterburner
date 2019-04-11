@@ -1,0 +1,1 @@
+window_set_caption("Afterburner - Boss 1: Bomber");

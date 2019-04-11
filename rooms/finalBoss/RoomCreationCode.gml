@@ -1,1 +1,1 @@
-window_set_caption("Afterburner - Level 6: Final");
+window_set_caption("Afterburner - Boss 2: Wingman");
