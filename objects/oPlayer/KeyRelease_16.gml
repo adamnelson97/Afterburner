@@ -1,0 +1,1 @@
+if (!audio_is_playing(player_bullet_sound)) audio_stop_sound(player_bullet_sound);
