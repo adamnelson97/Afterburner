@@ -831,6 +831,14 @@
             }
         },
         {
+            "Key": "e049b902-ad43-4cee-86ee-87a6fd10e5fd",
+            "Value": {
+                "id": "4c173b04-23f3-40f2-b7fe-15bb879963d5",
+                "resourcePath": "paths\\pEnemy2\\pEnemy2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "e60065cc-df61-435f-825a-dd977c7bcae3",
             "Value": {
                 "id": "a6baeb4c-0032-420b-83a5-1a095baf2654",
