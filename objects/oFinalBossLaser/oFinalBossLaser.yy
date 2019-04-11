@@ -87,20 +87,6 @@
             "varType": 1
         },
         {
-            "id": "a9e52657-48bc-4a8f-8238-37d0a83e1a4e",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "120",
-            "varName": "laser_fire_time",
-            "varType": 1
-        },
-        {
             "id": "2ca9c116-1981-440c-a3e6-dde737773189",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -112,6 +98,20 @@
             "resourceFilter": 1023,
             "value": "100",
             "varName": "hit_points",
+            "varType": 1
+        },
+        {
+            "id": "cf670a3b-03bd-4a12-9327-f119b1e8c2f9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "120",
+            "varName": "laser_fire_time",
             "varType": 1
         }
     ],

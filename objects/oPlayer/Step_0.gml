@@ -1,11 +1,7 @@
 // Keep the player on the screen
 
 if(!instance_exists(oEnemy) && !instance_exists(oFinalBossLaser) && !instance_exists(oBomber) && !instance_exists(oFinalBoss)) {
-	if (room_next(room) != -1) {
-		room_goto_next();
-	} else {
-		game_end();
-	}
+	instance_create_depth(768, 768, -100, oSuccess);
 }
 
 x = clamp(x, 50, room_width - 50);

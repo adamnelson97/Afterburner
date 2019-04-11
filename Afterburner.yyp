@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00e4c7ff-3df0-4f99-bdd2-1926395b656c",
+            "Value": {
+                "id": "dc9a6859-5550-4844-8573-bb013b40d237",
+                "resourcePath": "objects\\oFailure\\oFailure.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "01e55951-5923-4d12-a0ed-e61c1c68f45c",
             "Value": {
                 "id": "3afc1c8a-7f6a-45e2-903c-07ff0896e74d",
@@ -47,6 +55,14 @@
             }
         },
         {
+            "Key": "0272ffa4-511e-4087-a0f2-523a90557db4",
+            "Value": {
+                "id": "23955195-7dbf-471a-af1e-65949a8ad9d1",
+                "resourcePath": "objects\\oBulletTurret\\oBulletTurret.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "04086b0f-2d22-48cd-b4e1-bb0cde0f73dd",
             "Value": {
                 "id": "386dac5d-4aa6-4007-807a-a7eb458e9afd",
@@ -60,6 +76,14 @@
                 "id": "4da9c16c-af0c-4228-972b-47a25a88d5ee",
                 "resourcePath": "views\\045b497a-462a-408b-bd42-672af671c2f1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "04c7ab06-f321-49c4-9cb7-67e78a9d625c",
+            "Value": {
+                "id": "661765fd-9480-4fdb-9116-0f7a7c8b6e00",
+                "resourcePath": "objects\\oTargetEnemy\\oTargetEnemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -83,6 +107,14 @@
             "Value": {
                 "id": "9936d21c-a7fd-4642-a58e-9552f1289570",
                 "resourcePath": "sprites\\sHealth\\sHealth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "122ee030-b4b5-44a2-b2cc-0021e20a2a3a",
+            "Value": {
+                "id": "8da66f68-fbfa-4aa4-8701-eae93613bd14",
+                "resourcePath": "sprites\\sFailure\\sFailure.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -116,6 +148,14 @@
                 "id": "4ed2eaa7-af32-4924-949a-5c83a9bb2ea0",
                 "resourcePath": "rooms\\normandy_boss\\normandy_boss.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "23c8eddb-9436-4fd8-ad63-b8291c579bb8",
+            "Value": {
+                "id": "a1dd45c2-f721-4036-b0ae-de746c967646",
+                "resourcePath": "objects\\oTargetTurret\\oTargetTurret.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -188,6 +228,14 @@
                 "id": "96f48e66-ef4a-477f-b259-ddac143afbf2",
                 "resourcePath": "rooms\\normandy\\normandy.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "37fc8363-8926-41da-b3e2-343f898a3433",
+            "Value": {
+                "id": "40312e94-c4d6-422a-a4df-8b84b9e50e2e",
+                "resourcePath": "sprites\\sCannonTurret\\sCannonTurret.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -359,6 +407,22 @@
             }
         },
         {
+            "Key": "695a7aa7-80f7-4c49-9983-2e6b8d512804",
+            "Value": {
+                "id": "9fdf5318-f116-4279-be4e-df57274c455d",
+                "resourcePath": "objects\\oTurret\\oTurret.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6bfeca5b-2925-45cb-9c3b-764445a26272",
+            "Value": {
+                "id": "cbf52a3d-88de-4fa4-90a5-afd773ae1c1d",
+                "resourcePath": "objects\\oTargetEngine\\oTargetEngine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "724d1462-2cfa-4954-a3cd-927ce518db19",
             "Value": {
                 "id": "77157835-ee0e-4842-ae41-e9fc0292d7a4",
@@ -527,6 +591,22 @@
             }
         },
         {
+            "Key": "99e8e0d5-da78-49bc-9f7f-cc313c1dc4c9",
+            "Value": {
+                "id": "e1c7a5c2-6f6c-47fc-a961-97952cd01d00",
+                "resourcePath": "objects\\oMissileEnemy\\oMissileEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9ca6df35-2025-4d63-bb55-657540331029",
+            "Value": {
+                "id": "1781b6f2-9bb1-4cc8-b714-e39f11d4dc09",
+                "resourcePath": "objects\\oTargetBoss\\oTargetBoss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d9e8740-d273-4ab2-ab1e-6aeeaa70d667",
             "Value": {
                 "id": "d6b12046-9296-439d-9d92-f3f5aaae52c3",
@@ -540,6 +620,14 @@
                 "id": "b997e9f0-523f-4127-a389-f1e8bc1981e5",
                 "resourcePath": "views\\a1e7a42c-5bf0-4dea-914c-ca706cb75b7c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a3e78190-1ae0-440f-8e75-cb57667d0180",
+            "Value": {
+                "id": "0179f16f-cbd8-40f5-8c01-64613b8b63cd",
+                "resourcePath": "sprites\\sSuccess\\sSuccess.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -687,11 +775,27 @@
             }
         },
         {
+            "Key": "d6683a9d-2e88-4d75-aa62-32e535db8cf2",
+            "Value": {
+                "id": "cf9d8ca0-141a-4a84-b8d4-fd88755cf2a2",
+                "resourcePath": "sprites\\sTgt\\sTgt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d9065498-0cd2-4742-8135-9f7930a55d35",
             "Value": {
                 "id": "593cc93d-d46b-4fef-b4a4-c4cfd2eb3edf",
                 "resourcePath": "rooms\\bastogne\\bastogne.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dbed7341-a959-4ac1-b384-a5e7bf3cc20b",
+            "Value": {
+                "id": "a97ded08-07a9-498a-90aa-8fb450b26b84",
+                "resourcePath": "objects\\oSuccess\\oSuccess.yy",
+                "resourceType": "GMObject"
             }
         },
         {

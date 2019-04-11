@@ -20,7 +20,7 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
+            "enumb": 0,
             "eventtype": 3,
             "m_owner": "31347c20-08c2-477e-abab-b60db1513653"
         },
@@ -74,6 +74,20 @@
             "resourceFilter": 1023,
             "value": "120",
             "varName": "lifetime",
+            "varType": 1
+        },
+        {
+            "id": "42af40ae-0569-41d8-ae94-1d480b714ac5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "5",
+            "varName": "turn_rate",
             "varType": 1
         }
     ],
