@@ -5,18 +5,18 @@ effect_create_above(ef_firework, x, y, 1, c_orange);
 effect_create_below(ef_ring, x, y, 2, c_white);
 
 var powerup;
-var random_num;
-random_num = random_range(0,20);
+var item_num;
+item_num = random_range(0,100);
 
-if (random_num <= 1) { // 5% chance
+if (item_num <= 2) { // 2% chance
 	powerup = instance_create_layer(x, y, "Instances", oNuke);
-} else if(random_num >= 2 && random_num <= 5) { // 20% chance
+} else if(item_num > 2 && item_num <= 12) { // 10% chance
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
 	powerup.image_angle = 180;
-} else if (random_num >= 6 && random_num <= 9) { // 20% chance 
-	powerup = instance_create_layer(x, y, "Instances", oHealth);
-} else if (random_num >= 10 && random_num <= 14) { // 25% chance 
+} else if (item_num > 12 && item_num <= 22) { // 10% chance 
 	powerup = instance_create_layer(x, y, "Instances", oWingmanPowerUp);
+} else if (item_num > 22 && item_num <= 32) { // 10% chance 
+	powerup = instance_create_layer(x, y, "Instances", oHealth);
 }
 
 if (!audio_is_playing(enemy_destroyed_sound)) audio_play_sound(enemy_destroyed_sound, 2, 0);
