@@ -29,5 +29,5 @@ if(bullet_timer == 0) {
 		projectile.x_vel = 0;
 		projectile.y_vel = 20;
 	}
-	bullet_timer = 20;
+	bullet_timer = 30;
 }
