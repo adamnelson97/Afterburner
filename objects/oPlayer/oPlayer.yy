@@ -454,6 +454,20 @@
             "value": "0",
             "varName": "missile_count",
             "varType": 1
+        },
+        {
+            "id": "6788f0cb-d7bb-4b82-8419-1d56a7f0e73c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "smoke_timer",
+            "varType": 1
         }
     ],
     "solid": false,
