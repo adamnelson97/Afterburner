@@ -8,9 +8,9 @@ var powerup;
 var random_num;
 random_num = random_range(0,20);
 
-if (random_num <= 1) { // 5% chance
+//if (random_num <= 1) { // 5% chance
 	powerup = instance_create_layer(x, y, "Instances", oNuke);
-} else if(random_num >= 2 && random_num <= 5) { // 20% chance
+/*} else*/ if(random_num >= 2 && random_num <= 5) { // 20% chance
 	powerup = instance_create_layer(x, y, "Instances", oMissilePowerUp);
 	powerup.image_angle = 180;
 } else if (random_num >= 6 && random_num <= 9) { // 20% chance 

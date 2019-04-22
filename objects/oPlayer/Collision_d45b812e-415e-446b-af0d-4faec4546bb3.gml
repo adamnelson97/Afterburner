@@ -1,2 +1,2 @@
 global.Score += 50;
-instance_destroy(oEnemy);
+burst_missile_active = true;

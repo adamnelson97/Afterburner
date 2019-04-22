@@ -4,6 +4,7 @@ if (instance_exists(oPlayer)) {
 	y = oPlayer.y + 64;
 	image_angle = oPlayer.image_angle;
 }
+else instance_destroy();
 if (smoke_timer > 0) {
 	smoke_timer--;
 }
