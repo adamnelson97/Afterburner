@@ -6,5 +6,5 @@ draw_text_transformed_color(x + 64, y, "DMG: " + string(hit_points), 2, 2, 0, c_
 draw_set_halign(fa_left);
 draw_text_transformed_color(x + 64, y+24, "MSL: " + string(missile_count), 2, 2, 0, c_lime, c_lime, c_lime, c_lime, 1);
 draw_set_halign(fa_left);
-draw_text_transformed_color(x + 64, y+48, "MPBM: " + string(burst_missile_active), 2, 2, 0, c_lime, c_lime, c_lime, c_lime, 1);
+draw_text_transformed_color(x + 64, y+48, "BURST: " + string(burst_missile_active), 2, 2, 0, c_lime, c_lime, c_lime, c_lime, 1);
    
