@@ -2,7 +2,7 @@
 {
     "name": "controls",
     "id": "6243b66a-27b1-429b-b6cd-eea88a23f7d8",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

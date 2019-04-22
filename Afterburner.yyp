@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "374eff3f-92f2-4aa2-830d-a3014a0a3fb2",
+            "Value": {
+                "id": "c6ca5ffa-3261-4dfc-9464-d8183738fb2a",
+                "resourcePath": "objects\\oFinalScore\\oFinalScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37fc8363-8926-41da-b3e2-343f898a3433",
             "Value": {
                 "id": "40312e94-c4d6-422a-a4df-8b84b9e50e2e",
@@ -363,6 +371,14 @@
             "Value": {
                 "id": "8d33eaf7-8d71-4ed5-b88c-1796fb169573",
                 "resourcePath": "sprites\\sVillage_hut\\sVillage_hut.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b8a994f-8112-4c45-b9a4-ab62e7326c47",
+            "Value": {
+                "id": "b3c6af1f-bf5b-4575-8f70-877723d7b8f8",
+                "resourcePath": "sprites\\sFinalScore\\sFinalScore.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -476,6 +492,14 @@
                 "id": "cbf52a3d-88de-4fa4-90a5-afd773ae1c1d",
                 "resourcePath": "objects\\oTargetEngine\\oTargetEngine.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6d0159a1-d97c-4587-ae1b-35d7642539cf",
+            "Value": {
+                "id": "d66fefc0-c57e-4241-a219-53fafbfb2d3d",
+                "resourcePath": "rooms\\endScreen\\endScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -604,6 +628,14 @@
                 "id": "ddc8db9e-3777-454d-a018-1dc111f759f8",
                 "resourcePath": "views\\8d4b9479-48e6-4427-acba-cbff22aaec48.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e19d9b1-62dc-4085-b94b-e66b61eb0b67",
+            "Value": {
+                "id": "290ba7fe-9cf1-489f-b841-96300376b2eb",
+                "resourcePath": "objects\\oGoToStart\\oGoToStart.yy",
+                "resourceType": "GMObject"
             }
         },
         {

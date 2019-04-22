@@ -3,7 +3,7 @@ if (control_timer == 0) {
 	if (first_click) {
 		image_index = 2;
 		first_click = false;
-		control_timer = 5;
+		control_timer = 10;
 	} else {
 		room_goto_next();
 	}
