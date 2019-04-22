@@ -5,6 +5,6 @@ if (control_timer == 0) {
 		first_click = false;
 		control_timer = 5;
 	} else {
-		room_goto(algiers);
+		room_goto_next();
 	}
 }

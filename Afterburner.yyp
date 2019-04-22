@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "090ca4c1-a865-4d90-8013-8e6463ddfe61",
+            "Value": {
+                "id": "878035b1-27dd-47c1-9230-1e8e6ac0e65a",
+                "resourcePath": "rooms\\algiersCS\\algiersCS.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0ab6aae0-a48e-4ac1-b7bd-eb2c9862004f",
             "Value": {
                 "id": "9936d21c-a7fd-4642-a58e-9552f1289570",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "2097312d-ecb7-460d-bb97-b47c6d416f1b",
+            "Value": {
+                "id": "e41c23c4-3e01-42f9-9f95-4cacf2e9b6dc",
+                "resourcePath": "objects\\oCutScene\\oCutScene.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23995e3e-be4e-452f-99e9-7f81c976775a",
             "Value": {
                 "id": "4ed2eaa7-af32-4924-949a-5c83a9bb2ea0",
@@ -164,6 +180,14 @@
                 "id": "a1dd45c2-f721-4036-b0ae-de746c967646",
                 "resourcePath": "objects\\oTargetTurret\\oTargetTurret.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "27371b9e-6ad0-416b-b0e6-f0944b30cc86",
+            "Value": {
+                "id": "4ab9e834-4bcb-4b82-af0f-18bb1a964b40",
+                "resourcePath": "rooms\\hondurasCS\\hondurasCS.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -204,6 +228,14 @@
                 "id": "450f2caa-4b4a-434f-9020-8246c056b47e",
                 "resourcePath": "objects\\oLaser\\oLaser.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "315a2696-5bc1-461c-87bd-1fc7a309cc0b",
+            "Value": {
+                "id": "9ea30c2e-d090-4cb6-9838-b11c4cfd44ab",
+                "resourcePath": "rooms\\normandyCS\\normandyCS.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -407,6 +439,14 @@
             }
         },
         {
+            "Key": "61086552-309a-434f-b487-1007848e629c",
+            "Value": {
+                "id": "a08fd6f9-4b4a-4674-86ce-73ce506614f4",
+                "resourcePath": "sprites\\sNormandyCutscene\\sNormandyCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6243b66a-27b1-429b-b6cd-eea88a23f7d8",
             "Value": {
                 "id": "a032359e-3f59-45cc-a9d0-e8cc46ade01b",
@@ -583,6 +623,22 @@
             }
         },
         {
+            "Key": "90bdb961-5e54-4730-aa3c-ae4abd7a3e00",
+            "Value": {
+                "id": "2cb9e9ab-8e9b-4824-acb8-1633030f7c2c",
+                "resourcePath": "rooms\\los_angelesCS\\los_angelesCS.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9277e0ca-6b58-465a-aeb4-bf73d8cac7a3",
+            "Value": {
+                "id": "3daf73fd-62ad-4b58-a3cb-487ecb1c3c66",
+                "resourcePath": "rooms\\bastogneCS\\bastogneCS.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "92e8b13a-c13d-46d4-8484-10e861af2aa4",
             "Value": {
                 "id": "b8f6b622-505e-4a65-9ec2-c2805682c14d",
@@ -639,6 +695,14 @@
             }
         },
         {
+            "Key": "a255f899-8b39-45fd-8bc7-1daa782ac3c7",
+            "Value": {
+                "id": "7c40b3fa-aa1a-4047-8568-84adbd948a71",
+                "resourcePath": "sprites\\sBastogneCutscene\\sBastogneCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3e78190-1ae0-440f-8e75-cb57667d0180",
             "Value": {
                 "id": "0179f16f-cbd8-40f5-8c01-64613b8b63cd",
@@ -684,6 +748,22 @@
                 "id": "592269fe-90a2-4591-9849-38f1f0dd0a82",
                 "resourcePath": "objects\\oFinalBoss\\oFinalBoss.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b7875807-8aed-44b2-9e17-d3e6bd2d1eae",
+            "Value": {
+                "id": "ff0ac13b-ce9c-41c2-afba-ecf9d93f6a44",
+                "resourcePath": "sprites\\sHondurasCutscene\\sHondurasCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba4fbd75-e6d7-4868-b217-e111985caa4c",
+            "Value": {
+                "id": "a11a18c7-c51a-49ae-932d-177a7e82e09d",
+                "resourcePath": "sprites\\sLosAngelesCutscene\\sLosAngelesCutscene.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -759,6 +839,14 @@
             }
         },
         {
+            "Key": "ca765025-9eb7-451f-bca3-4e353cbc0f6e",
+            "Value": {
+                "id": "1a2a450a-2b3c-4fc7-a31c-259187128f50",
+                "resourcePath": "sprites\\sAlgiersCutscene\\sAlgiersCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "546720a0-7f0a-43ae-a3b7-f841067890d4",
@@ -771,6 +859,14 @@
             "Value": {
                 "id": "311d4aeb-bfbb-4284-9a3e-96633072fc77",
                 "resourcePath": "sprites\\sBuildings\\sBuildings.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ce240212-34b6-490c-99ed-2e80adc01b81",
+            "Value": {
+                "id": "db405e1f-931b-4bd0-9bc9-1e27b875b67e",
+                "resourcePath": "sprites\\sCutScene\\sCutScene.yy",
                 "resourceType": "GMSprite"
             }
         },
