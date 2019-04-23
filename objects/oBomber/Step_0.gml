@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 if(hit_points == 0) {
+	if(instance_exists(oEngineDestroyed)) instance_destroy(oEngineDestroyed);
 	image_blend = make_color_rgb(color, color, color);
 	color--;
 	image_xscale-=0.00392156863;

@@ -2,7 +2,16 @@ if (missile_timer > 0) {
 	missile_timer--;	
 }
 image_angle = direction - 90;
-if (hit_points <= 0) instance_destroy();
+if(hit_points <= 0) {
+	image_blend = make_color_rgb(color, color, color);
+	color--;
+	image_xscale-=0.00392156863;
+	image_yscale-=0.00392156863;
+}
+if(image_xscale <= 0.2 && image_yscale <= 0.2) {
+	global.Score += 1000;
+	instance_destroy();	
+}
 var projectile;
 if(missile_timer == 0) {
 	projectile = instance_create_layer(x, y, "Instances", oMissileEnemy);

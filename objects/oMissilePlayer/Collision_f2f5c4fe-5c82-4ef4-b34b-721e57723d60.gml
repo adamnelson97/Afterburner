@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Missile impact tgt
 effect_create_above(ef_explosion, x, y, 0, c_dkgray);
 effect_create_above(ef_explosion, x, y, 0, c_yellow);
 effect_create_above(ef_explosion, x, y, 0, c_orange);

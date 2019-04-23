@@ -1,28 +1,28 @@
 {
-    "id": "9bc8981e-39a1-45fa-8ad6-f43dd747a9f8",
+    "id": "e0ca4c31-68cb-4880-9c01-5cad63ecddda",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oLosAngelesLogo",
     "eventList": [
         {
-            "id": "dd0828f9-2c09-4bbc-b0d6-3c47ec9b31f2",
+            "id": "a12b2098-1b25-4f58-887e-f2d230ff31cd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "9bc8981e-39a1-45fa-8ad6-f43dd747a9f8"
+            "m_owner": "e0ca4c31-68cb-4880-9c01-5cad63ecddda"
         },
         {
-            "id": "9e77c856-e416-4459-913c-9504411afda3",
+            "id": "be232c44-e6f0-4a1d-8878-37fcd9ebe746",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "9bc8981e-39a1-45fa-8ad6-f43dd747a9f8"
+            "m_owner": "e0ca4c31-68cb-4880-9c01-5cad63ecddda"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "c2e4231b-fc64-4aa5-9f61-9be48587100f",
+            "id": "acc64eb2-4867-48c7-9e02-f7b53c88eb0b",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -58,6 +58,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "4bc48329-828d-43a3-87ec-d86fca3c09b8",
+    "spriteId": "b6a95c52-d964-431f-91a6-18755d4a64da",
     "visible": true
 }

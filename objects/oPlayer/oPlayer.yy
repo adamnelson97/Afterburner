@@ -235,26 +235,6 @@
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
         },
         {
-            "id": "1af37056-d5e2-4542-987a-7ff5cb1119ff",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 10,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
-            "id": "b4f7e3d9-045c-428c-a7a4-19c998d33129",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 16,
-            "eventtype": 10,
-            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
-        },
-        {
             "id": "44bfaebe-2434-45d4-ad97-37880afcf58f",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -270,6 +250,16 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "99e8e0d5-da78-49bc-9f7f-cc313c1dc4c9",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
+        },
+        {
+            "id": "d44f8e9e-5eda-4bed-846f-5e3ea23b3df1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "f0a34b17-1ab6-42bd-9fde-0b7003412662",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417"
@@ -474,6 +464,34 @@
             "value": "0",
             "varName": "missile_count",
             "varType": 1
+        },
+        {
+            "id": "6788f0cb-d7bb-4b82-8419-1d56a7f0e73c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "smoke_timer",
+            "varType": 1
+        },
+        {
+            "id": "86574300-f33c-4f97-9a8d-d3e88e611362",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "burst_missile_active",
+            "varType": 3
         }
     ],
     "solid": false,

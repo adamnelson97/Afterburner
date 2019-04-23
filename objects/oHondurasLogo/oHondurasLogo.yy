@@ -1,28 +1,28 @@
 {
-    "id": "b6b3e6b3-84d2-4370-820f-6ca403b639b2",
+    "id": "88d95741-00a9-4d82-9e04-ab415d461092",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oHondurasLogo",
     "eventList": [
         {
-            "id": "ebba7440-6ed3-499d-bb89-d88ffc73bd42",
+            "id": "89e61a12-b3da-4a2d-9502-a49049daf747",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "b6b3e6b3-84d2-4370-820f-6ca403b639b2"
+            "m_owner": "88d95741-00a9-4d82-9e04-ab415d461092"
         },
         {
-            "id": "6c8e9b65-3c65-4376-a55c-362d455b4b56",
+            "id": "0da624b5-0cd9-42ff-8e4b-7fdb2c5b2c09",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "b6b3e6b3-84d2-4370-820f-6ca403b639b2"
+            "m_owner": "88d95741-00a9-4d82-9e04-ab415d461092"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "a0ec0744-c955-496d-b1ef-cdd1b40e3496",
+            "id": "dac63ed6-1cad-4bfa-979d-a778c6124545",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -58,6 +58,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "4785591c-4053-4ae6-9e80-73e30abb033c",
+    "spriteId": "ebe41c8a-f2ea-4aea-92c6-62588bbf846e",
     "visible": true
 }

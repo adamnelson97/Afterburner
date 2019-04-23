@@ -9,6 +9,13 @@ y = clamp(y, 50, room_height - 50);
 
 y += y_vel;
 x += x_vel;
+if (smoke_timer > 0) {
+	smoke_timer--;
+}
+if (hit_points < 50 && smoke_timer == 0) {
+	instance_create_depth(x+irandom_range(-2,2),y+32,-99, oSmokePlayerWingman);
+	smoke_timer = 2;
+}
 
 // Decrement timer so bullets don't fire constantly
 if (bullet_timer > 0) {
@@ -36,7 +43,6 @@ if (y_vel > 0) {
 else if (y_vel < 0) {
 	y_vel++;
 }
-
 
 // Change missile boolean if out of ammo
 if (missile_count == 0) {

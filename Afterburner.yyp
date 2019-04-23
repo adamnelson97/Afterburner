@@ -105,7 +105,7 @@
         {
             "Key": "090ca4c1-a865-4d90-8013-8e6463ddfe61",
             "Value": {
-                "id": "878035b1-27dd-47c1-9230-1e8e6ac0e65a",
+                "id": "f7ec34d9-4768-4544-a3a0-4b0f854daa0d",
                 "resourcePath": "rooms\\algiersCS\\algiersCS.yy",
                 "resourceType": "GMRoom"
             }
@@ -115,14 +115,6 @@
             "Value": {
                 "id": "9936d21c-a7fd-4642-a58e-9552f1289570",
                 "resourcePath": "sprites\\sHealth\\sHealth.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "11b10879-59fe-4dde-9e06-489806859d57",
-            "Value": {
-                "id": "ac992fe1-2683-432e-9ef9-7b30dc0892e4",
-                "resourcePath": "sprites\\sEnemyCannon\\sEnemyCannon.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -151,6 +143,14 @@
             }
         },
         {
+            "Key": "1a2f3d41-fec4-4052-ab4c-403cbd1e752f",
+            "Value": {
+                "id": "a8a87d85-810f-425e-910c-18a282d7f1a3",
+                "resourcePath": "sprites\\sSmokeTrailSmall\\sSmokeTrailSmall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1fece775-2218-4de1-b8e0-85677533e6a7",
             "Value": {
                 "id": "b7a75ee7-0564-4c52-b1a7-cf09e6397cfc",
@@ -161,9 +161,25 @@
         {
             "Key": "2097312d-ecb7-460d-bb97-b47c6d416f1b",
             "Value": {
-                "id": "e41c23c4-3e01-42f9-9f95-4cacf2e9b6dc",
+                "id": "274242b8-543e-49e8-9931-68483f106a83",
                 "resourcePath": "objects\\oCutScene\\oCutScene.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "21504ca9-7107-4377-b131-52f62b640e97",
+            "Value": {
+                "id": "8bc5e1a5-282c-4509-9118-c9d3af97541f",
+                "resourcePath": "objects\\oSmokePlayerWingman\\oSmokePlayerWingman.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "22fcfca5-1193-4ef9-bf58-f25c0ab96f97",
+            "Value": {
+                "id": "8dbdf822-0284-4bef-ac24-6551b218bd15",
+                "resourcePath": "sprites\\sBurstMissile\\sBurstMissile.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -185,7 +201,7 @@
         {
             "Key": "27371b9e-6ad0-416b-b0e6-f0944b30cc86",
             "Value": {
-                "id": "4ab9e834-4bcb-4b82-af0f-18bb1a964b40",
+                "id": "5a3c9804-ba1c-4a65-b319-041a65968e5c",
                 "resourcePath": "rooms\\hondurasCS\\hondurasCS.yy",
                 "resourceType": "GMRoom"
             }
@@ -204,6 +220,22 @@
                 "id": "53d167ef-49d6-4faa-bcc1-e5cd0edc1e45",
                 "resourcePath": "objects\\oControls\\oControls.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28be8809-0bdc-4b91-9a83-0349684b8430",
+            "Value": {
+                "id": "3788a9e4-5a4d-4cc0-a91f-3edbfb97ba3c",
+                "resourcePath": "sprites\\sNonTgt\\sNonTgt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c2b0a32-e6c8-4fcc-9cc1-ed18753a11e9",
+            "Value": {
+                "id": "6a6d2dbb-bd55-41ed-b3f5-866b514f4e8a",
+                "resourcePath": "sprites\\sNameAlgiers\\sNameAlgiers.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -233,7 +265,7 @@
         {
             "Key": "315a2696-5bc1-461c-87bd-1fc7a309cc0b",
             "Value": {
-                "id": "9ea30c2e-d090-4cb6-9838-b11c4cfd44ab",
+                "id": "379404e4-290d-41f9-bf3f-f0b72e3803c1",
                 "resourcePath": "rooms\\normandyCS\\normandyCS.yy",
                 "resourceType": "GMRoom"
             }
@@ -244,14 +276,6 @@
                 "id": "76686073-e097-411e-b539-c1cc4cddab27",
                 "resourcePath": "sprites\\sSu27\\sSu27.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "3202e78d-264f-478c-86de-404222aee730",
-            "Value": {
-                "id": "9749ec63-d97f-4f4b-8e64-ee2e22d4b7ef",
-                "resourcePath": "views\\3202e78d-264f-478c-86de-404222aee730.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -268,22 +292,6 @@
                 "id": "1b4de943-1937-49a6-ad66-b44bc76a4dcc",
                 "resourcePath": "sprites\\sCannonGreen\\sCannonGreen.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "34bfb0a7-64d4-4142-a2d4-2170d932ced0",
-            "Value": {
-                "id": "96f48e66-ef4a-477f-b259-ddac143afbf2",
-                "resourcePath": "rooms\\normandy\\normandy.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "374eff3f-92f2-4aa2-830d-a3014a0a3fb2",
-            "Value": {
-                "id": "c6ca5ffa-3261-4dfc-9464-d8183738fb2a",
-                "resourcePath": "objects\\oFinalScore\\oFinalScore.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -343,6 +351,14 @@
             }
         },
         {
+            "Key": "46409ddd-80a1-4427-84b4-ce7c534458c2",
+            "Value": {
+                "id": "3ebeae5a-28b6-43b0-8ab6-6d2a8111ffa2",
+                "resourcePath": "objects\\oRockyMountainsLogo\\oRockyMountainsLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "47581806-4f5f-4c24-9dcc-10cd41093f8a",
             "Value": {
                 "id": "6e7e6df9-7cb4-4c84-8112-06ca285b4cfb",
@@ -356,14 +372,6 @@
                 "id": "991760ed-1e5a-483b-b809-5f310375c440",
                 "resourcePath": "sounds\\boss_destroyed_sound\\boss_destroyed_sound.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "4785591c-4053-4ae6-9e80-73e30abb033c",
-            "Value": {
-                "id": "ed0d6ef0-d10c-40cc-bad5-f466d9cbf4ca",
-                "resourcePath": "sprites\\sHondurasLogo\\sHondurasLogo.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,19 +391,11 @@
             }
         },
         {
-            "Key": "4b8a994f-8112-4c45-b9a4-ab62e7326c47",
+            "Key": "4a91110e-71a6-4475-968f-76097e621810",
             "Value": {
-                "id": "b3c6af1f-bf5b-4575-8f70-877723d7b8f8",
-                "resourcePath": "sprites\\sFinalScore\\sFinalScore.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4bc48329-828d-43a3-87ec-d86fca3c09b8",
-            "Value": {
-                "id": "11438753-501b-4ed8-822b-e5c2f3650484",
-                "resourcePath": "sprites\\sLosAngelesLogo\\sLosAngelesLogo.yy",
-                "resourceType": "GMSprite"
+                "id": "13d04b4a-6420-47c4-accb-0f1f52ec0c70",
+                "resourcePath": "objects\\oBurstMissilePlayer\\oBurstMissilePlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -420,14 +420,6 @@
                 "id": "6805e4b0-f686-4a55-ad7f-e718cb8992cd",
                 "resourcePath": "sounds\\background_music\\background_music.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "5305a512-dbc8-4ac2-8189-071fede6ee7a",
-            "Value": {
-                "id": "ff050989-767e-43de-adb1-c73d3f4834b0",
-                "resourcePath": "sprites\\sBastogneLogo\\sBastogneLogo.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,10 +463,10 @@
             }
         },
         {
-            "Key": "5d006c96-2d2e-4e60-84af-5d15198eb93e",
+            "Key": "5bde84b8-c2a1-42c7-b490-2af89b30cc84",
             "Value": {
-                "id": "8ce7da27-e7ca-4183-8e7a-345040ac50ad",
-                "resourcePath": "sprites\\sNormandyLogo\\sNormandyLogo.yy",
+                "id": "1407d969-e2bb-430b-9d19-3b27782e85fe",
+                "resourcePath": "sprites\\sEngineDestroyed\\sEngineDestroyed.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -489,8 +481,16 @@
         {
             "Key": "61086552-309a-434f-b487-1007848e629c",
             "Value": {
-                "id": "a08fd6f9-4b4a-4674-86ce-73ce506614f4",
+                "id": "c96b2f63-2a10-4de1-ace6-212860501fbb",
                 "resourcePath": "sprites\\sNormandyCutscene\\sNormandyCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "617e803a-643b-4bd9-9326-11a4b2c91dda",
+            "Value": {
+                "id": "d85db91a-5325-46c5-8420-987a54f3016e",
+                "resourcePath": "sprites\\sNameNormandy\\sNameNormandy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "68ef12be-9145-433c-a60c-8afb8d346e67",
+            "Value": {
+                "id": "d4e9d320-1945-4463-9a7e-5d38ad70050f",
+                "resourcePath": "sprites\\sNameRockies\\sNameRockies.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "695a7aa7-80f7-4c49-9983-2e6b8d512804",
             "Value": {
                 "id": "9fdf5318-f116-4279-be4e-df57274c455d",
@@ -519,19 +527,19 @@
             }
         },
         {
+            "Key": "697e385d-71f0-4410-94be-ddf785a33a08",
+            "Value": {
+                "id": "e8da8c5c-534d-4a7c-913f-15a4124282e3",
+                "resourcePath": "sprites\\sExplosion\\sExplosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6bfeca5b-2925-45cb-9c3b-764445a26272",
             "Value": {
                 "id": "cbf52a3d-88de-4fa4-90a5-afd773ae1c1d",
                 "resourcePath": "objects\\oTargetEngine\\oTargetEngine.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6d0159a1-d97c-4587-ae1b-35d7642539cf",
-            "Value": {
-                "id": "d66fefc0-c57e-4241-a219-53fafbfb2d3d",
-                "resourcePath": "rooms\\endScreen\\endScreen.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -559,19 +567,19 @@
             }
         },
         {
+            "Key": "778b36a3-a604-4d96-ba2d-0846fa3fc7f4",
+            "Value": {
+                "id": "db0e5de1-1b18-4335-83a4-40e70a2a83cb",
+                "resourcePath": "objects\\oExplosion\\oExplosion.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "797456ee-f41c-4281-8985-dded969e61e5",
             "Value": {
                 "id": "a29de5c4-7911-4cc0-89fb-4be0ce038c8d",
                 "resourcePath": "views\\797456ee-f41c-4281-8985-dded969e61e5.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "79873b4d-795f-49c6-89d5-05a91e9d0253",
-            "Value": {
-                "id": "eddf5fee-0e30-4d07-883b-edf2714d4a69",
-                "resourcePath": "sprites\\sRockyMtnsLogo\\sRockyMtnsLogo.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -599,14 +607,6 @@
             }
         },
         {
-            "Key": "7f881a4f-9426-415f-8c53-9f01b41d03df",
-            "Value": {
-                "id": "0983c46f-0845-420e-b3cc-1fa21414757f",
-                "resourcePath": "sprites\\sAlgiersLogo\\sAlgiersLogo.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7ffd8f51-3d55-4803-acd0-8b7a70f75c6a",
             "Value": {
                 "id": "b124a1ee-2e67-47b8-b597-cfc90f3f6367",
@@ -619,6 +619,14 @@
             "Value": {
                 "id": "17e64b94-e329-4fd4-8416-0193962a9912",
                 "resourcePath": "objects\\oPlayer\\oPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "822ce4cb-752f-4c33-83fb-71cefb1c0f90",
+            "Value": {
+                "id": "2b62524f-3082-49a2-a28c-5ce3ccb1354d",
+                "resourcePath": "objects\\oBastogneLogo\\oBastogneLogo.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -671,19 +679,19 @@
             }
         },
         {
+            "Key": "88d95741-00a9-4d82-9e04-ab415d461092",
+            "Value": {
+                "id": "27463591-cb1d-4d32-92d9-a8c47bfcb7be",
+                "resourcePath": "objects\\oHondurasLogo\\oHondurasLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8d4b9479-48e6-4427-acba-cbff22aaec48",
             "Value": {
                 "id": "ddc8db9e-3777-454d-a018-1dc111f759f8",
                 "resourcePath": "views\\8d4b9479-48e6-4427-acba-cbff22aaec48.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8e19d9b1-62dc-4085-b94b-e66b61eb0b67",
-            "Value": {
-                "id": "290ba7fe-9cf1-489f-b841-96300376b2eb",
-                "resourcePath": "objects\\oGoToStart\\oGoToStart.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -705,7 +713,7 @@
         {
             "Key": "90bdb961-5e54-4730-aa3c-ae4abd7a3e00",
             "Value": {
-                "id": "2cb9e9ab-8e9b-4824-acb8-1633030f7c2c",
+                "id": "db887240-02e7-4ac5-99d9-ca26b938e1fc",
                 "resourcePath": "rooms\\los_angelesCS\\los_angelesCS.yy",
                 "resourceType": "GMRoom"
             }
@@ -713,7 +721,7 @@
         {
             "Key": "9277e0ca-6b58-465a-aeb4-bf73d8cac7a3",
             "Value": {
-                "id": "3daf73fd-62ad-4b58-a3cb-487ecb1c3c66",
+                "id": "03eda1b6-93eb-41f2-9881-1b844c69012f",
                 "resourcePath": "rooms\\bastogneCS\\bastogneCS.yy",
                 "resourceType": "GMRoom"
             }
@@ -727,10 +735,34 @@
             }
         },
         {
+            "Key": "934dd1d1-bdcb-410e-a0e5-b45563ca999e",
+            "Value": {
+                "id": "a9ae52ec-9edb-46c8-9208-ca4027e340b5",
+                "resourcePath": "objects\\oEngineDestroyed\\oEngineDestroyed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "956fe4ce-37d2-46c0-ac6e-3860c2ffcc9e",
             "Value": {
                 "id": "9abfb5c9-5cff-40b8-880c-a13fbfd4cd28",
                 "resourcePath": "objects\\oTitle\\oTitle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95dfb2e5-08b8-46ba-adf4-faedba7750ab",
+            "Value": {
+                "id": "06bd6123-d18a-453c-b9bb-3c107addaba8",
+                "resourcePath": "rooms\\normandy\\normandy.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "96f43af5-12be-4d77-b58e-063b8daf8acf",
+            "Value": {
+                "id": "06228eab-1dac-428f-aaf9-540d10d1b0cf",
+                "resourcePath": "objects\\oSmoke\\oSmoke.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -751,11 +783,11 @@
             }
         },
         {
-            "Key": "9bc8981e-39a1-45fa-8ad6-f43dd747a9f8",
+            "Key": "9a7ec347-ec06-4c60-9959-5c3b7335dc49",
             "Value": {
-                "id": "d392b3d3-2259-4582-ba60-6f46502b42c8",
-                "resourcePath": "objects\\oLosAngelesLogo\\oLosAngelesLogo.yy",
-                "resourceType": "GMObject"
+                "id": "6dac1e51-b63f-4de4-87ce-7042eb2de074",
+                "resourcePath": "paths\\pEnemyNonTgt\\pEnemyNonTgt.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -785,8 +817,16 @@
         {
             "Key": "a255f899-8b39-45fd-8bc7-1daa782ac3c7",
             "Value": {
-                "id": "7c40b3fa-aa1a-4047-8568-84adbd948a71",
+                "id": "88f2d55c-a1a9-48b8-b94e-911d6bd5f369",
                 "resourcePath": "sprites\\sBastogneCutscene\\sBastogneCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a397fbb1-8379-4964-8995-ce5d58b434e9",
+            "Value": {
+                "id": "d68ef4a8-f531-4760-afde-225fbe6bf15b",
+                "resourcePath": "sprites\\sNameBastogne\\sNameBastogne.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -833,7 +873,7 @@
         {
             "Key": "b1038207-ba08-4898-8696-15b09c0f3c5a",
             "Value": {
-                "id": "dbc3ac7c-7539-44c1-8ede-c4b451e4a95c",
+                "id": "a404edbd-39e5-4590-a8fb-b4d1a27043c2",
                 "resourcePath": "objects\\oNormandyLogo\\oNormandyLogo.yy",
                 "resourceType": "GMObject"
             }
@@ -847,17 +887,17 @@
             }
         },
         {
-            "Key": "b6b3e6b3-84d2-4370-820f-6ca403b639b2",
+            "Key": "b6a95c52-d964-431f-91a6-18755d4a64da",
             "Value": {
-                "id": "4b42e75d-1174-4933-b347-3f12b4394be5",
-                "resourcePath": "objects\\oHondurasLogo\\oHondurasLogo.yy",
-                "resourceType": "GMObject"
+                "id": "39ba7676-bc54-4e3c-9032-1bb6fe5817ba",
+                "resourcePath": "sprites\\sNameLA\\sNameLA.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
             "Key": "b7875807-8aed-44b2-9e17-d3e6bd2d1eae",
             "Value": {
-                "id": "ff0ac13b-ce9c-41c2-afba-ecf9d93f6a44",
+                "id": "0073f16f-6fdf-44a5-a4fe-8dfe9180f16a",
                 "resourcePath": "sprites\\sHondurasCutscene\\sHondurasCutscene.yy",
                 "resourceType": "GMSprite"
             }
@@ -865,17 +905,9 @@
         {
             "Key": "ba4fbd75-e6d7-4868-b217-e111985caa4c",
             "Value": {
-                "id": "a11a18c7-c51a-49ae-932d-177a7e82e09d",
+                "id": "54c5954e-f757-4c5b-a628-023a5f0c52bf",
                 "resourcePath": "sprites\\sLosAngelesCutscene\\sLosAngelesCutscene.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "bc65be63-e931-4948-ae4f-ea1cf9a00ce3",
-            "Value": {
-                "id": "f650cffd-62c4-414f-b6bc-e47c8f36bf4c",
-                "resourcePath": "objects\\oBastogneLogo\\oBastogneLogo.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -943,14 +975,6 @@
             }
         },
         {
-            "Key": "c832aa1c-f603-4a90-af18-3cbd7f2216c4",
-            "Value": {
-                "id": "67372d75-35f4-44ef-ae99-f7ea05c8862e",
-                "resourcePath": "objects\\oAlgiersLogo\\oAlgiersLogo.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "c9a76171-d817-4378-ad23-38047bf8bc4f",
             "Value": {
                 "id": "56173be5-1f7c-4e36-a275-e09adc9d7d41",
@@ -961,7 +985,7 @@
         {
             "Key": "ca765025-9eb7-451f-bca3-4e353cbc0f6e",
             "Value": {
-                "id": "1a2a450a-2b3c-4fc7-a31c-259187128f50",
+                "id": "6fc2185e-efd8-462f-b8ba-bcbe657ac83c",
                 "resourcePath": "sprites\\sAlgiersCutscene\\sAlgiersCutscene.yy",
                 "resourceType": "GMSprite"
             }
@@ -985,8 +1009,16 @@
         {
             "Key": "ce240212-34b6-490c-99ed-2e80adc01b81",
             "Value": {
-                "id": "db405e1f-931b-4bd0-9bc9-1e27b875b67e",
+                "id": "fe992fe9-a3a1-406d-bb08-e94cca11c8d6",
                 "resourcePath": "sprites\\sCutScene\\sCutScene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ceb40962-706d-46d0-bc40-c2bae0ec3556",
+            "Value": {
+                "id": "955bea0c-cf6f-4270-84f7-4d00593fb4e6",
+                "resourcePath": "sprites\\sSmokeTrailBomber\\sSmokeTrailBomber.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1004,6 +1036,14 @@
                 "id": "adbf959e-c80f-4307-815e-48d095bd6d87",
                 "resourcePath": "sprites\\sFinalBoss\\sFinalBoss.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d46aba13-97c9-4a0f-b4d2-6ca0cba68a1a",
+            "Value": {
+                "id": "37e864ea-1712-46cf-ab36-12d5d4c67bf8",
+                "resourcePath": "objects\\oTargetNonTarget\\oTargetNonTarget.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1031,6 +1071,14 @@
             }
         },
         {
+            "Key": "de63a332-3f9a-4ff3-98ae-0d460255ae6a",
+            "Value": {
+                "id": "5696d804-3754-40c4-bca7-d28f19e8203d",
+                "resourcePath": "objects\\oAlgiersLogo\\oAlgiersLogo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "def92d2f-0aef-4a77-9cbe-ea950bc86c63",
             "Value": {
                 "id": "1a7f074b-f1a0-4cf1-892e-65da041d18ba",
@@ -1049,16 +1097,16 @@
         {
             "Key": "e049b902-ad43-4cee-86ee-87a6fd10e5fd",
             "Value": {
-                "id": "4c173b04-23f3-40f2-b7fe-15bb879963d5",
+                "id": "444360c4-f43c-4e6a-9cd4-bdf479aa470c",
                 "resourcePath": "paths\\pEnemy2\\pEnemy2.yy",
                 "resourceType": "GMPath"
             }
         },
         {
-            "Key": "e311c13e-b1ad-4f6b-a349-6857af257490",
+            "Key": "e0ca4c31-68cb-4880-9c01-5cad63ecddda",
             "Value": {
-                "id": "ee3e19bf-96e0-4b25-a9d1-21fa02d25dcb",
-                "resourcePath": "objects\\oRockyMtnsLogo\\oRockyMtnsLogo.yy",
+                "id": "87a4024c-380b-420e-a1e8-b4a20458e19a",
+                "resourcePath": "objects\\oLosAngelesLogo\\oLosAngelesLogo.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1095,11 +1143,27 @@
             }
         },
         {
+            "Key": "ebe41c8a-f2ea-4aea-92c6-62588bbf846e",
+            "Value": {
+                "id": "44520cb3-9ed7-47d4-a6a5-23c15fc5c9ac",
+                "resourcePath": "sprites\\sNameHonduras\\sNameHonduras.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ee2f22e9-bfc0-48e3-8379-240b73bf2f11",
             "Value": {
                 "id": "295b7a85-c3b0-4ab2-96f7-8dbe8219a94f",
                 "resourcePath": "sprites\\sMissile\\sMissile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0a34b17-1ab6-42bd-9fde-0b7003412662",
+            "Value": {
+                "id": "4c1fadf3-9d07-438a-9335-94348b74e5bd",
+                "resourcePath": "objects\\oEnemyNonTgt\\oEnemyNonTgt.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1116,14 +1180,6 @@
                 "id": "3998be22-d056-4be2-ab4a-a6f6de25b760",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f63c112b-d765-4090-b952-63127a4c00b1",
-            "Value": {
-                "id": "cd139377-d6ce-4fba-8355-b0fdfb085fba",
-                "resourcePath": "sounds\\powerup_sound\\powerup_sound.yy",
-                "resourceType": "GMSound"
             }
         },
         {

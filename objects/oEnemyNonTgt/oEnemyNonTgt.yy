@@ -1,0 +1,240 @@
+{
+    "id": "f0a34b17-1ab6-42bd-9fde-0b7003412662",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "oEnemyNonTgt",
+    "eventList": [
+        {
+            "id": "0c10ec9e-5d5c-428d-92a6-9410e1522e37",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "16ed53f4-c256-4b70-b026-4ed4eb9fcfda",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "79cbb3be-1aa5-4b53-907f-af98a2b9ef21",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "8ec2221b-c1a8-44cc-bcde-b9fe8506c876",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "07418b73-9196-4dc8-8916-5a241915a5c1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "bf3c6787-9b58-46ce-b9bc-8c12d64834a8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "e0134340-0381-4551-b13e-8f5b31a34fa1",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "11bc6009-2627-4da5-a1f9-e39b2da65e3c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "778b36a3-a604-4d96-ba2d-0846fa3fc7f4",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        },
+        {
+            "id": "c51f554f-f74a-4227-bbc6-f6040a485393",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "8114eb5b-6ddc-4b8c-a7e7-bb4532ffd417",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f0a34b17-1ab6-42bd-9fde-0b7003412662"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": [
+        {
+            "id": "a60f02c5-d8ad-424d-905b-960cb8d4543c",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "id": "98ac2eed-3b13-41d8-86fb-2b10c45d98b0",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 128,
+            "y": 0
+        },
+        {
+            "id": "a674f3cd-cd5c-4316-828d-35cfee067ac6",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 128,
+            "y": 128
+        },
+        {
+            "id": "eebf929a-368b-4ff5-b299-5069ec76ea8f",
+            "modelName": "GMPoint",
+            "mvc": "1.0",
+            "x": 0,
+            "y": 128
+        }
+    ],
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "7c0eaf0b-f61b-48c8-83e8-c73a6feb6d1c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "missiles",
+            "varType": 1
+        },
+        {
+            "id": "ae9001fe-a9ed-47fe-9263-f2208195331f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "rotation_amt",
+            "varType": 1
+        },
+        {
+            "id": "84cbdb9c-5a50-4bdf-ac4d-15228205094b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "bullet_timer",
+            "varType": 1
+        },
+        {
+            "id": "6679d919-a692-42ef-8497-5fe147ea697b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "14",
+            "varName": "horiz_speed",
+            "varType": 1
+        },
+        {
+            "id": "89b6b153-b124-4d72-aead-ed2cd922e506",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "vert_speed",
+            "varType": 1
+        },
+        {
+            "id": "a5874198-f55e-40dd-9c98-f2efc6737b66",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "25",
+            "varName": "hit_points",
+            "varType": 1
+        },
+        {
+            "id": "0983cc9c-b56e-4a2c-bc88-b6ced2347669",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "missile_timer",
+            "varType": 1
+        },
+        {
+            "id": "13645187-6ae1-452a-96a5-972a0001a9bc",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "is_tgt",
+            "varType": 3
+        }
+    ],
+    "solid": false,
+    "spriteId": "3160f3d5-f43b-4ef6-b6fc-ce7d6bed38ca",
+    "visible": true
+}

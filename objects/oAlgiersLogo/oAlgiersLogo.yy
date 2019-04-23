@@ -1,28 +1,28 @@
 {
-    "id": "c832aa1c-f603-4a90-af18-3cbd7f2216c4",
+    "id": "de63a332-3f9a-4ff3-98ae-0d460255ae6a",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oAlgiersLogo",
     "eventList": [
         {
-            "id": "85fb0d27-5646-4137-aa05-8de56dd751e8",
+            "id": "bd2b6b00-3561-4012-a72c-72a6423998b6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "c832aa1c-f603-4a90-af18-3cbd7f2216c4"
+            "m_owner": "de63a332-3f9a-4ff3-98ae-0d460255ae6a"
         },
         {
-            "id": "837eb53c-c513-49e8-b5e4-194d0c27c5e5",
+            "id": "ab13a891-52e2-4281-a233-c72f43f86a85",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "c832aa1c-f603-4a90-af18-3cbd7f2216c4"
+            "m_owner": "de63a332-3f9a-4ff3-98ae-0d460255ae6a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "4518fda8-4745-439f-8413-ef32a0de168d",
+            "id": "37700877-6b79-4806-bdd1-3af6a5af84e2",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -58,6 +58,6 @@
         }
     ],
     "solid": false,
-    "spriteId": "7f881a4f-9426-415f-8c53-9f01b41d03df",
+    "spriteId": "2c2b0a32-e6c8-4fcc-9cc1-ed18753a11e9",
     "visible": true
 }

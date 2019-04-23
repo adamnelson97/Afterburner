@@ -172,6 +172,20 @@
             "value": "3",
             "varName": "bullet_reset",
             "varType": 1
+        },
+        {
+            "id": "33ed4ad8-6f9b-4432-befd-8f834964cba0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "smoke_timer",
+            "varType": 0
         }
     ],
     "solid": false,
