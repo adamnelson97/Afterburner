@@ -1215,6 +1215,14 @@
             }
         },
         {
+            "Key": "fac99383-eb73-4b55-b0f8-c7d43c587e95",
+            "Value": {
+                "id": "aba445b2-31a8-4d13-866d-5b45e96ecc08",
+                "resourcePath": "sprites\\sFinalScore\\sFinalScore.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fe4ea16f-b14d-41d9-a91d-8913c7b080e1",
             "Value": {
                 "id": "00c2965d-81e9-4fa6-9b44-9bde0f69a7c2",
