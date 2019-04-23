@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "4d186d7a-499f-464f-a313-70260fc6fab0",
+            "Value": {
+                "id": "c41ed43c-2a38-4599-a113-47956f7e51e4",
+                "resourcePath": "objects\\oGoToStart\\oGoToStart.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4d4426a3-5911-4546-9452-05719f32996f",
             "Value": {
                 "id": "dda998c4-1c05-4b83-a9cc-8428d0d026e4",
@@ -452,6 +460,14 @@
                 "id": "d83ca257-7a34-496b-b01b-ec929652c6b4",
                 "resourcePath": "views\\574619a4-0b59-437a-abbb-0c16831e71d0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a38add7-c7cc-438d-8836-d80a7e5dcd83",
+            "Value": {
+                "id": "bc782305-96a6-4db5-b780-6fc21be3fc89",
+                "resourcePath": "rooms\\endScreen\\endScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1124,6 +1140,14 @@
                 "id": "a0591f35-0805-4c18-a17f-12d70db32d36",
                 "resourcePath": "sounds\\missile_launch_sound\\missile_launch_sound.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e965e6a2-463a-4d01-9ec2-e4db43387ce2",
+            "Value": {
+                "id": "0a93e513-031f-4b27-a34c-a1f87c392ae9",
+                "resourcePath": "objects\\oFinalScore\\oFinalScore.yy",
+                "resourceType": "GMObject"
             }
         },
         {
