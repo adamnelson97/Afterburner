@@ -85,6 +85,20 @@
             "value": "0",
             "varName": "control_timer",
             "varType": 0
+        },
+        {
+            "id": "01ab1b31-864a-433d-8d36-1c5f0c8ac175",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "first_click",
+            "varType": 3
         }
     ],
     "solid": false,
