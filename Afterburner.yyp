@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "71850863-70ab-4a12-a6e0-672512b8c1a4",
+            "Value": {
+                "id": "d8ea6649-8bad-4131-8f1e-a61aeede573f",
+                "resourcePath": "sounds\\power_up_sound\\power_up_sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "724d1462-2cfa-4954-a3cd-927ce518db19",
             "Value": {
                 "id": "77157835-ee0e-4842-ae41-e9fc0292d7a4",
